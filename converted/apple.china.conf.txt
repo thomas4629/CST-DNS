@@ -46,6 +46,7 @@
 [/cn-smp-paymentservices.apple.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/configuration.apple.com.akadns.net/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/configuration.apple.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
+[/crl.apple.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/cstat.apple.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/cstat.cdn-apple.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/dd-cdn.origin-apple.com.akadns.net/]tls://dns.ipv4dns.com tls://dns.18bit.cn
