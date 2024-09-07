@@ -5,8 +5,8 @@
 [/a5.mzstatic.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/adcdownload.apple.com.akadns.net/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/adcdownload.apple.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
-[/amp-api.media.apple.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/amp-api-updates.apps.apple.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
+[/amp-api.media.apple.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/api-p-ap-c.smoot.apple.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/api-p-ap-d.smoot.apple.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/api-p-ap-e.smoot.apple.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
@@ -51,6 +51,7 @@
 [/cstat.cdn-apple.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/dd-cdn.origin-apple.com.akadns.net/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/dejavu.apple.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
+[/devstreaming-cdn.apple.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/download.developer.apple.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/experiments.apple.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/gs-loc-cn.apple.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
@@ -63,8 +64,8 @@
 [/gsp4-cn.ls.apple.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/gsp5-cn.ls.apple.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/gsp85-cn-ssl.ls.apple.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
-[/gspe19-2-cn-ssl.ls.apple.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]tls://dns.ipv4dns.com tls://dns.18bit.cn
+[/gspe19-2-cn-ssl.ls.apple.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/gspe19-cn-ssl.ls.apple.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/gspe19-cn.ls-apple.com.akadns.net/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/gspe19-cn.ls.apple.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
@@ -93,6 +94,7 @@
 [/ipcdn.apple.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/iphone-ld.apple.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/iphone-ld.origin-apple.com.akadns.net/]tls://dns.ipv4dns.com tls://dns.18bit.cn
+[/is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/is1-ssl.mzstatic.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/is1.mzstatic.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/is2-ssl.mzstatic.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
@@ -103,7 +105,6 @@
 [/is4.mzstatic.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/is5-ssl.mzstatic.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/is5.mzstatic.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
-[/is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/itunes-apple.com.akadns.net/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/itunes.apple.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/itunesconnect.apple.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
@@ -113,8 +114,8 @@
 [/ml.cdn-apple.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/music.apple.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/ocsp-lb.apple.com.akadns.net/]tls://dns.ipv4dns.com tls://dns.18bit.cn
-[/ocsp2-lb.apple.com.akadns.net/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/ocsp.apple.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
+[/ocsp2-lb.apple.com.akadns.net/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/ocsp2.apple.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/oscdn.apple.com/]tls://dns.ipv4dns.com tls://dns.18bit.cn
 [/oscdn.origin-apple.com.akadns.net/]tls://dns.ipv4dns.com tls://dns.18bit.cn
