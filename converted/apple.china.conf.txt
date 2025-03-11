@@ -7,9 +7,6 @@
 [/adcdownload.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/amp-api-updates.apps.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/amp-api.media.apple.com/]tls://1.12.12.12 https://doh.360.cn
-[/api-p-ap-c.smoot.apple.com/]tls://1.12.12.12 https://doh.360.cn
-[/api-p-ap-d.smoot.apple.com/]tls://1.12.12.12 https://doh.360.cn
-[/api-p-ap-e.smoot.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/app-site-association.cdn-apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/appldnld.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/appldnld.g.aaplimg.com/]tls://1.12.12.12 https://doh.360.cn
@@ -61,7 +58,6 @@
 [/gsp12-cn.ls.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/gsp13-cn.ls.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]tls://1.12.12.12 https://doh.360.cn
-[/gsp4-cn.ls.apple.com.edgekey.net/]tls://1.12.12.12 https://doh.360.cn
 [/gsp4-cn.ls.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/gsp5-cn.ls.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/gsp85-cn-ssl.ls.apple.com/]tls://1.12.12.12 https://doh.360.cn
@@ -71,7 +67,6 @@
 [/gspe19-cn.ls-apple.com.akadns.net/]tls://1.12.12.12 https://doh.360.cn
 [/gspe19-cn.ls.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/gspe21-ssl.ls.apple.com/]tls://1.12.12.12 https://doh.360.cn
-[/gspe21.ls.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/gspe35-ssl.ls.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/gspe79-cn-ssl.ls.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/guzzoni-apple-com.v.aaplimg.com/]tls://1.12.12.12 https://doh.360.cn
@@ -80,9 +75,7 @@
 [/iadsdk.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/icloud-cdn.icloud.com.akadns.net/]tls://1.12.12.12 https://doh.360.cn
 [/icloud.cdn-apple.com/]tls://1.12.12.12 https://doh.360.cn
-[/images.apple.com.akadns.net/]tls://1.12.12.12 https://doh.360.cn
 [/images.apple.com.edgekey.net.globalredir.akadns.net/]tls://1.12.12.12 https://doh.360.cn
-[/images.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/init-kt.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/init-p01md-lb.push-apple.com.akadns.net/]tls://1.12.12.12 https://doh.360.cn
 [/init-p01md.apple.com/]tls://1.12.12.12 https://doh.360.cn
@@ -169,6 +162,5 @@
 [/weather-map2.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/weatherkit.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/www.apple.com.edgekey.net.globalredir.akadns.net/]tls://1.12.12.12 https://doh.360.cn
-[/www.apple.com.edgekey.net/]tls://1.12.12.12 https://doh.360.cn
 [/www.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/xp.apple.com/]tls://1.12.12.12 https://doh.360.cn
