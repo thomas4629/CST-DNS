@@ -3,6 +3,7 @@
 [/2mdn.net/]tls://1.12.12.12 https://doh.360.cn
 [/admob-cn.com/]tls://1.12.12.12 https://doh.360.cn
 [/adservice.google.com/]tls://1.12.12.12 https://doh.360.cn
+[/app-analytics-services.com/]tls://1.12.12.12 https://doh.360.cn
 [/app-measurement-cn.com/]tls://1.12.12.12 https://doh.360.cn
 [/app-measurement.com/]tls://1.12.12.12 https://doh.360.cn
 [/apps5.oingo.com/]tls://1.12.12.12 https://doh.360.cn
