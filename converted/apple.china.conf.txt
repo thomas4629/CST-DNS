@@ -27,6 +27,7 @@
 [/cds.apple.com.akadns.net/]tls://1.12.12.12 https://doh.360.cn
 [/cds.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/cdsassets.apple.com/]tls://1.12.12.12 https://doh.360.cn
+[/certs.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/cl1-cdn.origin-apple.com.akadns.net/]tls://1.12.12.12 https://doh.360.cn
 [/cl1.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/cl2-cn.apple.com/]tls://1.12.12.12 https://doh.360.cn
