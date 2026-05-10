@@ -31,6 +31,7 @@
 [/cl1-cdn.origin-apple.com.akadns.net/]tls://1.12.12.12 https://doh.360.cn
 [/cl1.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/cl2-cn.apple.com/]tls://1.12.12.12 https://doh.360.cn
+[/cl2.apple.com.edgekey.net.globalredir.akadns.net/]tls://1.12.12.12 https://doh.360.cn
 [/cl2.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/cl3-cdn.origin-apple.com.akadns.net/]tls://1.12.12.12 https://doh.360.cn
 [/cl3.apple.com/]tls://1.12.12.12 https://doh.360.cn
@@ -56,6 +57,7 @@
 [/gs-loc-cn.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/gs-loc.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/gsp10-ssl-cn.ls.apple.com/]tls://1.12.12.12 https://doh.360.cn
+[/gsp11-cn.ls.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/gsp12-cn.ls.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/gsp13-cn.ls.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]tls://1.12.12.12 https://doh.360.cn
@@ -74,8 +76,6 @@
 [/guzzoni.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/guzzoni.smoot.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/iadsdk.apple.com/]tls://1.12.12.12 https://doh.360.cn
-[/icloud-cdn.icloud.com.akadns.net/]tls://1.12.12.12 https://doh.360.cn
-[/icloud.cdn-apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/images.apple.com.edgekey.net.globalredir.akadns.net/]tls://1.12.12.12 https://doh.360.cn
 [/init-kt.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/init-p01md-lb.push-apple.com.akadns.net/]tls://1.12.12.12 https://doh.360.cn
@@ -108,20 +108,16 @@
 [/mesu.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/ml.cdn-apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/music.apple.com/]tls://1.12.12.12 https://doh.360.cn
-[/ocsp-lb.apple.com.akadns.net/]tls://1.12.12.12 https://doh.360.cn
 [/ocsp.apple.com/]tls://1.12.12.12 https://doh.360.cn
-[/ocsp2-lb.apple.com.akadns.net/]tls://1.12.12.12 https://doh.360.cn
 [/ocsp2.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/oscdn.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/oscdn.origin-apple.com.akadns.net/]tls://1.12.12.12 https://doh.360.cn
 [/osxapps.itunes.g.aaplimg.com/]tls://1.12.12.12 https://doh.360.cn
 [/pancake.apple.com/]tls://1.12.12.12 https://doh.360.cn
-[/pancake.cdn-apple.com.akadns.net/]tls://1.12.12.12 https://doh.360.cn
 [/pba0.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/probe.siri.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/prod-support.apple-support.akadns.net/]tls://1.12.12.12 https://doh.360.cn
 [/publicassets.cdn-apple.com/]tls://1.12.12.12 https://doh.360.cn
-[/reserve-prime.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/s.mzstatic.com/]tls://1.12.12.12 https://doh.360.cn
 [/seed-sequoia.siri.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/seed-swallow.siri.apple.com/]tls://1.12.12.12 https://doh.360.cn
