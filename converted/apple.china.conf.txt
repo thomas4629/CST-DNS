@@ -103,6 +103,7 @@
 [/itunes-apple.com.akadns.net/]tls://1.12.12.12 https://doh.360.cn
 [/itunes.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/itunesconnect.apple.com/]tls://1.12.12.12 https://doh.360.cn
+[/mensura.cdn-apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/mesu-cdn.apple.com.akadns.net/]tls://1.12.12.12 https://doh.360.cn
 [/mesu-china.apple.com.akadns.net/]tls://1.12.12.12 https://doh.360.cn
 [/mesu.apple.com/]tls://1.12.12.12 https://doh.360.cn
