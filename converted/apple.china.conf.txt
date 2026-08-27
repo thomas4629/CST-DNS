@@ -64,6 +64,7 @@
 [/gsp4-cn.ls.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/gsp5-cn.ls.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/gsp85-cn-ssl.ls.apple.com/]tls://1.12.12.12 https://doh.360.cn
+[/gspe11-2-cn-ssl.ls.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]tls://1.12.12.12 https://doh.360.cn
 [/gspe19-2-cn-ssl.ls.apple.com/]tls://1.12.12.12 https://doh.360.cn
 [/gspe19-cn-ssl.ls.apple.com/]tls://1.12.12.12 https://doh.360.cn
