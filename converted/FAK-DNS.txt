@@ -385,7 +385,6 @@ https://doh.18bit.cn/dns-query
 [/008.bet/]tls://1.12.12.12 https://doh.360.cn
 [/00817.com/]tls://1.12.12.12 https://doh.360.cn
 [/00847.xin/]tls://1.12.12.12 https://doh.360.cn
-[/0086l.com/]tls://1.12.12.12 https://doh.360.cn
 [/0086org.com/]tls://1.12.12.12 https://doh.360.cn
 [/008n0l12145.xin/]tls://1.12.12.12 https://doh.360.cn
 [/008sport.com/]tls://1.12.12.12 https://doh.360.cn
@@ -421,7 +420,6 @@ https://doh.18bit.cn/dns-query
 [/010155.net/]tls://1.12.12.12 https://doh.360.cn
 [/0101cdn.com/]tls://1.12.12.12 https://doh.360.cn
 [/0101e.com/]tls://1.12.12.12 https://doh.360.cn
-[/0101game.online/]tls://1.12.12.12 https://doh.360.cn
 [/0101semi.com/]tls://1.12.12.12 https://doh.360.cn
 [/0101ssd.com/]tls://1.12.12.12 https://doh.360.cn
 [/010203.com/]tls://1.12.12.12 https://doh.360.cn
@@ -976,7 +974,6 @@ https://doh.18bit.cn/dns-query
 [/07073h5.com/]tls://1.12.12.12 https://doh.360.cn
 [/07073vr.com/]tls://1.12.12.12 https://doh.360.cn
 [/0708.com/]tls://1.12.12.12 https://doh.360.cn
-[/0712f.com/]tls://1.12.12.12 https://doh.360.cn
 [/0712fang.com/]tls://1.12.12.12 https://doh.360.cn
 [/0714.com/]tls://1.12.12.12 https://doh.360.cn
 [/0714110.xin/]tls://1.12.12.12 https://doh.360.cn
@@ -1601,7 +1598,6 @@ https://doh.18bit.cn/dns-query
 [/10sea.com/]tls://1.12.12.12 https://doh.360.cn
 [/10soo.com/]tls://1.12.12.12 https://doh.360.cn
 [/10tianqi.com/]tls://1.12.12.12 https://doh.360.cn
-[/10urzr3jk.icu/]tls://1.12.12.12 https://doh.360.cn
 [/10yan.com/]tls://1.12.12.12 https://doh.360.cn
 [/11.xn--vhquv/]tls://1.12.12.12 https://doh.360.cn
 [/110.com/]tls://1.12.12.12 https://doh.360.cn
@@ -1881,6 +1877,7 @@ https://doh.18bit.cn/dns-query
 [/123bo.com/]tls://1.12.12.12 https://doh.360.cn
 [/123boligang.com/]tls://1.12.12.12 https://doh.360.cn
 [/123cha.com/]tls://1.12.12.12 https://doh.360.cn
+[/123clouddrive.net/]tls://1.12.12.12 https://doh.360.cn
 [/123du.cc/]tls://1.12.12.12 https://doh.360.cn
 [/123ems.com/]tls://1.12.12.12 https://doh.360.cn
 [/123fc.com/]tls://1.12.12.12 https://doh.360.cn
@@ -2252,7 +2249,6 @@ https://doh.18bit.cn/dns-query
 [/1688s.com/]tls://1.12.12.12 https://doh.360.cn
 [/1688tsw.com/]tls://1.12.12.12 https://doh.360.cn
 [/1688zhuce.com/]tls://1.12.12.12 https://doh.360.cn
-[/16899168.com/]tls://1.12.12.12 https://doh.360.cn
 [/168ad.cc/]tls://1.12.12.12 https://doh.360.cn
 [/168auto.com/]tls://1.12.12.12 https://doh.360.cn
 [/168chaogu.com/]tls://1.12.12.12 https://doh.360.cn
@@ -2840,6 +2836,7 @@ https://doh.18bit.cn/dns-query
 [/1f6cd3ca611032.beer/]tls://1.12.12.12 https://doh.360.cn
 [/1f71060e75b35349.com/]tls://1.12.12.12 https://doh.360.cn
 [/1fangchan.com/]tls://1.12.12.12 https://doh.360.cn
+[/1fly.fun/]tls://1.12.12.12 https://doh.360.cn
 [/1foo.com/]tls://1.12.12.12 https://doh.360.cn
 [/1fooai.com/]tls://1.12.12.12 https://doh.360.cn
 [/1gaifang.com/]tls://1.12.12.12 https://doh.360.cn
@@ -3378,7 +3375,6 @@ https://doh.18bit.cn/dns-query
 [/24u7tos.com/]tls://1.12.12.12 https://doh.360.cn
 [/250.cc/]tls://1.12.12.12 https://doh.360.cn
 [/2500.tv/]tls://1.12.12.12 https://doh.360.cn
-[/25000li.com/]tls://1.12.12.12 https://doh.360.cn
 [/2500city.com/]tls://1.12.12.12 https://doh.360.cn
 [/2500sz.com/]tls://1.12.12.12 https://doh.360.cn
 [/250340.com/]tls://1.12.12.12 https://doh.360.cn
@@ -3680,7 +3676,6 @@ https://doh.18bit.cn/dns-query
 [/2umj.com/]tls://1.12.12.12 https://doh.360.cn
 [/2urch0.info/]tls://1.12.12.12 https://doh.360.cn
 [/2urg1y.info/]tls://1.12.12.12 https://doh.360.cn
-[/2urk3j.shop/]tls://1.12.12.12 https://doh.360.cn
 [/2uroz.info/]tls://1.12.12.12 https://doh.360.cn
 [/2v8d.com/]tls://1.12.12.12 https://doh.360.cn
 [/2v9t3xf9z2.com/]tls://1.12.12.12 https://doh.360.cn
@@ -5675,7 +5670,6 @@ https://doh.18bit.cn/dns-query
 [/51kanong.com/]tls://1.12.12.12 https://doh.360.cn
 [/51kaola.net/]tls://1.12.12.12 https://doh.360.cn
 [/51kaowang.com/]tls://1.12.12.12 https://doh.360.cn
-[/51kaxun.com/]tls://1.12.12.12 https://doh.360.cn
 [/51kehui.com/]tls://1.12.12.12 https://doh.360.cn
 [/51kids.com/]tls://1.12.12.12 https://doh.360.cn
 [/51kik.com/]tls://1.12.12.12 https://doh.360.cn
@@ -6122,7 +6116,6 @@ https://doh.18bit.cn/dns-query
 [/52dtv.com/]tls://1.12.12.12 https://doh.360.cn
 [/52dus.com/]tls://1.12.12.12 https://doh.360.cn
 [/52dyy.com/]tls://1.12.12.12 https://doh.360.cn
-[/52dzxy.com/]tls://1.12.12.12 https://doh.360.cn
 [/52edns.com/]tls://1.12.12.12 https://doh.360.cn
 [/52edy.com/]tls://1.12.12.12 https://doh.360.cn
 [/52enku.com/]tls://1.12.12.12 https://doh.360.cn
@@ -6294,6 +6287,7 @@ https://doh.18bit.cn/dns-query
 [/52zy.com/]tls://1.12.12.12 https://doh.360.cn
 [/5306.com/]tls://1.12.12.12 https://doh.360.cn
 [/53155.vip/]tls://1.12.12.12 https://doh.360.cn
+[/53164836.com/]tls://1.12.12.12 https://doh.360.cn
 [/531pool.com/]tls://1.12.12.12 https://doh.360.cn
 [/532106.com/]tls://1.12.12.12 https://doh.360.cn
 [/53233.org/]tls://1.12.12.12 https://doh.360.cn
@@ -6453,7 +6447,6 @@ https://doh.18bit.cn/dns-query
 [/5588492.com/]tls://1.12.12.12 https://doh.360.cn
 [/5588bet.com/]tls://1.12.12.12 https://doh.360.cn
 [/558idc.com/]tls://1.12.12.12 https://doh.360.cn
-[/559.cc/]tls://1.12.12.12 https://doh.360.cn
 [/55935.vip/]tls://1.12.12.12 https://doh.360.cn
 [/5595.cc/]tls://1.12.12.12 https://doh.360.cn
 [/5599.com/]tls://1.12.12.12 https://doh.360.cn
@@ -6702,7 +6695,6 @@ https://doh.18bit.cn/dns-query
 [/58wuji.com/]tls://1.12.12.12 https://doh.360.cn
 [/58xinghuo.com/]tls://1.12.12.12 https://doh.360.cn
 [/58xinrui.com/]tls://1.12.12.12 https://doh.360.cn
-[/58xs.com/]tls://1.12.12.12 https://doh.360.cn
 [/58xs.la/]tls://1.12.12.12 https://doh.360.cn
 [/58xuexi.com/]tls://1.12.12.12 https://doh.360.cn
 [/58yaoji.com/]tls://1.12.12.12 https://doh.360.cn
@@ -7205,7 +7197,6 @@ https://doh.18bit.cn/dns-query
 [/64365.com/]tls://1.12.12.12 https://doh.360.cn
 [/644446.com/]tls://1.12.12.12 https://doh.360.cn
 [/64504.com/]tls://1.12.12.12 https://doh.360.cn
-[/645250.net/]tls://1.12.12.12 https://doh.360.cn
 [/6453.net/]tls://1.12.12.12 https://doh.360.cn
 [/64538.net/]tls://1.12.12.12 https://doh.360.cn
 [/646000.com/]tls://1.12.12.12 https://doh.360.cn
@@ -7502,7 +7493,6 @@ https://doh.18bit.cn/dns-query
 [/699pic.com/]tls://1.12.12.12 https://doh.360.cn
 [/69fd4a3dbd02f66c.com/]tls://1.12.12.12 https://doh.360.cn
 [/69g.com/]tls://1.12.12.12 https://doh.360.cn
-[/69hr.com/]tls://1.12.12.12 https://doh.360.cn
 [/69mok.com/]tls://1.12.12.12 https://doh.360.cn
 [/69shu.org/]tls://1.12.12.12 https://doh.360.cn
 [/69shuba.cc/]tls://1.12.12.12 https://doh.360.cn
@@ -8038,7 +8028,6 @@ https://doh.18bit.cn/dns-query
 [/793688.com/]tls://1.12.12.12 https://doh.360.cn
 [/79432.com/]tls://1.12.12.12 https://doh.360.cn
 [/7951ee2a510281.beer/]tls://1.12.12.12 https://doh.360.cn
-[/79521.cc/]tls://1.12.12.12 https://doh.360.cn
 [/7979u.com/]tls://1.12.12.12 https://doh.360.cn
 [/797sun.com/]tls://1.12.12.12 https://doh.360.cn
 [/7988.com/]tls://1.12.12.12 https://doh.360.cn
@@ -8637,7 +8626,6 @@ https://doh.18bit.cn/dns-query
 [/886966.com/]tls://1.12.12.12 https://doh.360.cn
 [/886abc.com/]tls://1.12.12.12 https://doh.360.cn
 [/886cdead210292.beer/]tls://1.12.12.12 https://doh.360.cn
-[/886vps.com/]tls://1.12.12.12 https://doh.360.cn
 [/887367.com/]tls://1.12.12.12 https://doh.360.cn
 [/88765.com/]tls://1.12.12.12 https://doh.360.cn
 [/887777.com/]tls://1.12.12.12 https://doh.360.cn
@@ -8846,6 +8834,7 @@ https://doh.18bit.cn/dns-query
 [/8win.net/]tls://1.12.12.12 https://doh.360.cn
 [/8wq.com/]tls://1.12.12.12 https://doh.360.cn
 [/8wss.com/]tls://1.12.12.12 https://doh.360.cn
+[/8x.fit/]tls://1.12.12.12 https://doh.360.cn
 [/8x14khzwmi.com/]tls://1.12.12.12 https://doh.360.cn
 [/8x5vviy4r2.com/]tls://1.12.12.12 https://doh.360.cn
 [/8x6x.com/]tls://1.12.12.12 https://doh.360.cn
@@ -9143,6 +9132,8 @@ https://doh.18bit.cn/dns-query
 [/920uc.com/]tls://1.12.12.12 https://doh.360.cn
 [/921.com/]tls://1.12.12.12 https://doh.360.cn
 [/9211.com/]tls://1.12.12.12 https://doh.360.cn
+[/9212c21.com/]tls://1.12.12.12 https://doh.360.cn
+[/9212c7.com/]tls://1.12.12.12 https://doh.360.cn
 [/9217fdb98dcc13a8.com/]tls://1.12.12.12 https://doh.360.cn
 [/9217web.com/]tls://1.12.12.12 https://doh.360.cn
 [/92220556.com/]tls://1.12.12.12 https://doh.360.cn
@@ -9542,7 +9533,6 @@ https://doh.18bit.cn/dns-query
 [/987you.com/]tls://1.12.12.12 https://doh.360.cn
 [/98809.com/]tls://1.12.12.12 https://doh.360.cn
 [/988848a9d1013.beer/]tls://1.12.12.12 https://doh.360.cn
-[/988878.com/]tls://1.12.12.12 https://doh.360.cn
 [/98892.com/]tls://1.12.12.12 https://doh.360.cn
 [/988dns.com/]tls://1.12.12.12 https://doh.360.cn
 [/988sl.com/]tls://1.12.12.12 https://doh.360.cn
@@ -10091,7 +10081,6 @@ https://doh.18bit.cn/dns-query
 [/abc188.com/]tls://1.12.12.12 https://doh.360.cn
 [/abc369.net/]tls://1.12.12.12 https://doh.360.cn
 [/abc4game.com/]tls://1.12.12.12 https://doh.360.cn
-[/abc59783718.com/]tls://1.12.12.12 https://doh.360.cn
 [/abc7722.com/]tls://1.12.12.12 https://doh.360.cn
 [/abcache.com/]tls://1.12.12.12 https://doh.360.cn
 [/abcbank.shop/]tls://1.12.12.12 https://doh.360.cn
@@ -10409,7 +10398,6 @@ https://doh.18bit.cn/dns-query
 [/adhuanxiao.com/]tls://1.12.12.12 https://doh.360.cn
 [/adhubbj.xyz/]tls://1.12.12.12 https://doh.360.cn
 [/adhudong.com/]tls://1.12.12.12 https://doh.360.cn
-[/adi-whatsepp.com/]tls://1.12.12.12 https://doh.360.cn
 [/adianshi.com/]tls://1.12.12.12 https://doh.360.cn
 [/adiexpress.com/]tls://1.12.12.12 https://doh.360.cn
 [/adiic.com/]tls://1.12.12.12 https://doh.360.cn
@@ -10630,7 +10618,6 @@ https://doh.18bit.cn/dns-query
 [/afdian.com/]tls://1.12.12.12 https://doh.360.cn
 [/afdiancdn.com/]tls://1.12.12.12 https://doh.360.cn
 [/afdvr.com/]tls://1.12.12.12 https://doh.360.cn
-[/afe-whatsepp.com/]tls://1.12.12.12 https://doh.360.cn
 [/afea4f9221023.beer/]tls://1.12.12.12 https://doh.360.cn
 [/afeica.com/]tls://1.12.12.12 https://doh.360.cn
 [/afengblog.com/]tls://1.12.12.12 https://doh.360.cn
@@ -11017,7 +11004,6 @@ https://doh.18bit.cn/dns-query
 [/aiclk.com/]tls://1.12.12.12 https://doh.360.cn
 [/aicloud.com/]tls://1.12.12.12 https://doh.360.cn
 [/aicoauto.com/]tls://1.12.12.12 https://doh.360.cn
-[/aicode.cc/]tls://1.12.12.12 https://doh.360.cn
 [/aicoinstorge.com/]tls://1.12.12.12 https://doh.360.cn
 [/aiconn.com/]tls://1.12.12.12 https://doh.360.cn
 [/aicsemi.com/]tls://1.12.12.12 https://doh.360.cn
@@ -11427,7 +11413,6 @@ https://doh.18bit.cn/dns-query
 [/aiuxstudio.com/]tls://1.12.12.12 https://doh.360.cn
 [/aiv5.cc/]tls://1.12.12.12 https://doh.360.cn
 [/aivaylaco.com/]tls://1.12.12.12 https://doh.360.cn
-[/aiveola.com/]tls://1.12.12.12 https://doh.360.cn
 [/aivivo.com/]tls://1.12.12.12 https://doh.360.cn
 [/aiviy.com/]tls://1.12.12.12 https://doh.360.cn
 [/aiviysoft.com/]tls://1.12.12.12 https://doh.360.cn
@@ -11996,7 +11981,6 @@ https://doh.18bit.cn/dns-query
 [/allinpayhb.com/]tls://1.12.12.12 https://doh.360.cn
 [/allinpaysz.com/]tls://1.12.12.12 https://doh.360.cn
 [/allinso.com/]tls://1.12.12.12 https://doh.360.cn
-[/alllget.com/]tls://1.12.12.12 https://doh.360.cn
 [/alllook.tv/]tls://1.12.12.12 https://doh.360.cn
 [/allmaga.net/]tls://1.12.12.12 https://doh.360.cn
 [/allmed-china.com/]tls://1.12.12.12 https://doh.360.cn
@@ -12155,7 +12139,6 @@ https://doh.18bit.cn/dns-query
 [/amswater.com/]tls://1.12.12.12 https://doh.360.cn
 [/amtbbs.org/]tls://1.12.12.12 https://doh.360.cn
 [/amtf18.com/]tls://1.12.12.12 https://doh.360.cn
-[/amtjt.com/]tls://1.12.12.12 https://doh.360.cn
 [/amtron-ic.com/]tls://1.12.12.12 https://doh.360.cn
 [/amuletj.com/]tls://1.12.12.12 https://doh.360.cn
 [/amuletor.com/]tls://1.12.12.12 https://doh.360.cn
@@ -12555,7 +12538,6 @@ https://doh.18bit.cn/dns-query
 [/anyscdn.com/]tls://1.12.12.12 https://doh.360.cn
 [/anyskygame.com/]tls://1.12.12.12 https://doh.360.cn
 [/anysql.net/]tls://1.12.12.12 https://doh.360.cn
-[/anystandards.com/]tls://1.12.12.12 https://doh.360.cn
 [/anytesting.com/]tls://1.12.12.12 https://doh.360.cn
 [/anyun100.com/]tls://1.12.12.12 https://doh.360.cn
 [/anyunjianzhan.com/]tls://1.12.12.12 https://doh.360.cn
@@ -13576,7 +13558,6 @@ https://doh.18bit.cn/dns-query
 [/auxtelecom.com/]tls://1.12.12.12 https://doh.360.cn
 [/auxyl.com/]tls://1.12.12.12 https://doh.360.cn
 [/auy07161km.com/]tls://1.12.12.12 https://doh.360.cn
-[/auy07211km.com/]tls://1.12.12.12 https://doh.360.cn
 [/auyou.com/]tls://1.12.12.12 https://doh.360.cn
 [/av-ic.com/]tls://1.12.12.12 https://doh.360.cn
 [/av199.com/]tls://1.12.12.12 https://doh.360.cn
@@ -14115,7 +14096,6 @@ https://doh.18bit.cn/dns-query
 [/bagstory.net/]tls://1.12.12.12 https://doh.360.cn
 [/bagtree.com/]tls://1.12.12.12 https://doh.360.cn
 [/baguilingyun.com/]tls://1.12.12.12 https://doh.360.cn
-[/bagxs.com/]tls://1.12.12.12 https://doh.360.cn
 [/bahealpharma.com/]tls://1.12.12.12 https://doh.360.cn
 [/bahecloud.com/]tls://1.12.12.12 https://doh.360.cn
 [/bahens.com/]tls://1.12.12.12 https://doh.360.cn
@@ -14388,7 +14368,6 @@ https://doh.18bit.cn/dns-query
 [/baitanheichang.com/]tls://1.12.12.12 https://doh.360.cn
 [/baitdu.com/]tls://1.12.12.12 https://doh.360.cn
 [/baite666.com/]tls://1.12.12.12 https://doh.360.cn
-[/baithu.com/]tls://1.12.12.12 https://doh.360.cn
 [/baitianinfo.com/]tls://1.12.12.12 https://doh.360.cn
 [/baitiao.com/]tls://1.12.12.12 https://doh.360.cn
 [/baitomould.com/]tls://1.12.12.12 https://doh.360.cn
@@ -15970,7 +15949,6 @@ https://doh.18bit.cn/dns-query
 [/bigaka.com/]tls://1.12.12.12 https://doh.360.cn
 [/bigan.net/]tls://1.12.12.12 https://doh.360.cn
 [/bigbaicai.com/]tls://1.12.12.12 https://doh.360.cn
-[/bigballbiz.club/]tls://1.12.12.12 https://doh.360.cn
 [/bigbangux.com/]tls://1.12.12.12 https://doh.360.cn
 [/bigbenmeng.com/]tls://1.12.12.12 https://doh.360.cn
 [/bigbigai.com/]tls://1.12.12.12 https://doh.360.cn
@@ -16877,7 +16855,6 @@ https://doh.18bit.cn/dns-query
 [/bjttsf.com/]tls://1.12.12.12 https://doh.360.cn
 [/bjtvnews.com/]tls://1.12.12.12 https://doh.360.cn
 [/bjtysj.com/]tls://1.12.12.12 https://doh.360.cn
-[/bjtyzh.org/]tls://1.12.12.12 https://doh.360.cn
 [/bjtzeduyun.com/]tls://1.12.12.12 https://doh.360.cn
 [/bjtzfy.com/]tls://1.12.12.12 https://doh.360.cn
 [/bjtzzg.com/]tls://1.12.12.12 https://doh.360.cn
@@ -17474,7 +17451,6 @@ https://doh.18bit.cn/dns-query
 [/bongwell.com/]tls://1.12.12.12 https://doh.360.cn
 [/bonjour.bio/]tls://1.12.12.12 https://doh.360.cn
 [/bonkee.net/]tls://1.12.12.12 https://doh.360.cn
-[/bonkgb.com/]tls://1.12.12.12 https://doh.360.cn
 [/bonree.com/]tls://1.12.12.12 https://doh.360.cn
 [/boobooke.com/]tls://1.12.12.12 https://doh.360.cn
 [/boodo.com/]tls://1.12.12.12 https://doh.360.cn
@@ -17688,7 +17664,6 @@ https://doh.18bit.cn/dns-query
 [/bpxxfw.com/]tls://1.12.12.12 https://doh.360.cn
 [/bpxxvo.com/]tls://1.12.12.12 https://doh.360.cn
 [/bq04.com/]tls://1.12.12.12 https://doh.360.cn
-[/bqb.xyz/]tls://1.12.12.12 https://doh.360.cn
 [/bqbh.org/]tls://1.12.12.12 https://doh.360.cn
 [/bqfy.com/]tls://1.12.12.12 https://doh.360.cn
 [/bqg99.cc/]tls://1.12.12.12 https://doh.360.cn
@@ -17958,7 +17933,6 @@ https://doh.18bit.cn/dns-query
 [/btvcloud.com/]tls://1.12.12.12 https://doh.360.cn
 [/btwater.com/]tls://1.12.12.12 https://doh.360.cn
 [/btwmw.net/]tls://1.12.12.12 https://doh.360.cn
-[/btwoa.com/]tls://1.12.12.12 https://doh.360.cn
 [/btwob.net/]tls://1.12.12.12 https://doh.360.cn
 [/btxintong.com/]tls://1.12.12.12 https://doh.360.cn
 [/btydjxc.com/]tls://1.12.12.12 https://doh.360.cn
@@ -17970,7 +17944,6 @@ https://doh.18bit.cn/dns-query
 [/btzgamepkg.com/]tls://1.12.12.12 https://doh.360.cn
 [/btzhcc.com/]tls://1.12.12.12 https://doh.360.cn
 [/btzthb.com/]tls://1.12.12.12 https://doh.360.cn
-[/btzyc.com/]tls://1.12.12.12 https://doh.360.cn
 [/bubaigei.com/]tls://1.12.12.12 https://doh.360.cn
 [/bubalusplus.com/]tls://1.12.12.12 https://doh.360.cn
 [/bubbb.com/]tls://1.12.12.12 https://doh.360.cn
@@ -18200,7 +18173,6 @@ https://doh.18bit.cn/dns-query
 [/by6sx.com/]tls://1.12.12.12 https://doh.360.cn
 [/by899.com/]tls://1.12.12.12 https://doh.360.cn
 [/byai.com/]tls://1.12.12.12 https://doh.360.cn
-[/bybanking.com/]tls://1.12.12.12 https://doh.360.cn
 [/bybieyang.com/]tls://1.12.12.12 https://doh.360.cn
 [/bybily.com/]tls://1.12.12.12 https://doh.360.cn
 [/byboai.com/]tls://1.12.12.12 https://doh.360.cn
@@ -19170,7 +19142,6 @@ https://doh.18bit.cn/dns-query
 [/catcat321.com/]tls://1.12.12.12 https://doh.360.cn
 [/catchingdoll.com/]tls://1.12.12.12 https://doh.360.cn
 [/catchyrime.com/]tls://1.12.12.12 https://doh.360.cn
-[/catering-shizuoka.com/]tls://1.12.12.12 https://doh.360.cn
 [/catfish-cms.com/]tls://1.12.12.12 https://doh.360.cn
 [/catfk.com/]tls://1.12.12.12 https://doh.360.cn
 [/catguo.com/]tls://1.12.12.12 https://doh.360.cn
@@ -19584,7 +19555,6 @@ https://doh.18bit.cn/dns-query
 [/cctcct.com/]tls://1.12.12.12 https://doh.360.cn
 [/cctcdn.com/]tls://1.12.12.12 https://doh.360.cn
 [/cctek.com/]tls://1.12.12.12 https://doh.360.cn
-[/cctg.cc/]tls://1.12.12.12 https://doh.360.cn
 [/cctheze.com/]tls://1.12.12.12 https://doh.360.cn
 [/cctime.com/]tls://1.12.12.12 https://doh.360.cn
 [/cction.com/]tls://1.12.12.12 https://doh.360.cn
@@ -20602,7 +20572,6 @@ https://doh.18bit.cn/dns-query
 [/champsely.com/]tls://1.12.12.12 https://doh.360.cn
 [/chan.ink/]tls://1.12.12.12 https://doh.360.cn
 [/chance-ad.com/]tls://1.12.12.12 https://doh.360.cn
-[/chanced112.com/]tls://1.12.12.12 https://doh.360.cn
 [/chancel.ltd/]tls://1.12.12.12 https://doh.360.cn
 [/chandao.net/]tls://1.12.12.12 https://doh.360.cn
 [/chandashi.com/]tls://1.12.12.12 https://doh.360.cn
@@ -20639,7 +20608,6 @@ https://doh.18bit.cn/dns-query
 [/changhe-suzuki.com/]tls://1.12.12.12 https://doh.360.cn
 [/changhe.com/]tls://1.12.12.12 https://doh.360.cn
 [/changhe.tech/]tls://1.12.12.12 https://doh.360.cn
-[/changheauto.com/]tls://1.12.12.12 https://doh.360.cn
 [/changhedayun.com/]tls://1.12.12.12 https://doh.360.cn
 [/changheng88.com/]tls://1.12.12.12 https://doh.360.cn
 [/changhong-network.com/]tls://1.12.12.12 https://doh.360.cn
@@ -20685,7 +20653,6 @@ https://doh.18bit.cn/dns-query
 [/changuanjia.com/]tls://1.12.12.12 https://doh.360.cn
 [/changwang.com/]tls://1.12.12.12 https://doh.360.cn
 [/changwankeji.com/]tls://1.12.12.12 https://doh.360.cn
-[/changwei.asia/]tls://1.12.12.12 https://doh.360.cn
 [/changx.com/]tls://1.12.12.12 https://doh.360.cn
 [/changxianchem.com/]tls://1.12.12.12 https://doh.360.cn
 [/changxiao.co/]tls://1.12.12.12 https://doh.360.cn
@@ -20732,7 +20699,6 @@ https://doh.18bit.cn/dns-query
 [/chaofanshuma.com/]tls://1.12.12.12 https://doh.360.cn
 [/chaofantian.com/]tls://1.12.12.12 https://doh.360.cn
 [/chaofayin.com/]tls://1.12.12.12 https://doh.360.cn
-[/chaoge.press/]tls://1.12.12.12 https://doh.360.cn
 [/chaogejiaoyu.com/]tls://1.12.12.12 https://doh.360.cn
 [/chaogu1688.com/]tls://1.12.12.12 https://doh.360.cn
 [/chaohuishou.com/]tls://1.12.12.12 https://doh.360.cn
@@ -22802,7 +22768,6 @@ https://doh.18bit.cn/dns-query
 [/chuxinvip.com/]tls://1.12.12.12 https://doh.360.cn
 [/chuxueyun.com/]tls://1.12.12.12 https://doh.360.cn
 [/chuyaer.com/]tls://1.12.12.12 https://doh.360.cn
-[/chuyigao.com/]tls://1.12.12.12 https://doh.360.cn
 [/chuzhaobiao.com/]tls://1.12.12.12 https://doh.360.cn
 [/chvacuum.com/]tls://1.12.12.12 https://doh.360.cn
 [/chvoice.com/]tls://1.12.12.12 https://doh.360.cn
@@ -23189,7 +23154,6 @@ https://doh.18bit.cn/dns-query
 [/ck-coinmcap.lol/]tls://1.12.12.12 https://doh.360.cn
 [/ck0771.com/]tls://1.12.12.12 https://doh.360.cn
 [/ck100.com/]tls://1.12.12.12 https://doh.360.cn
-[/ck180.net/]tls://1.12.12.12 https://doh.360.cn
 [/ck586.com/]tls://1.12.12.12 https://doh.360.cn
 [/ck830.com/]tls://1.12.12.12 https://doh.360.cn
 [/ck921.com/]tls://1.12.12.12 https://doh.360.cn
@@ -23944,7 +23908,6 @@ https://doh.18bit.cn/dns-query
 [/cncn.net/]tls://1.12.12.12 https://doh.360.cn
 [/cncncn.com/]tls://1.12.12.12 https://doh.360.cn
 [/cncnet.net/]tls://1.12.12.12 https://doh.360.cn
-[/cncnki.com/]tls://1.12.12.12 https://doh.360.cn
 [/cncolour.com/]tls://1.12.12.12 https://doh.360.cn
 [/cncompute.com/]tls://1.12.12.12 https://doh.360.cn
 [/cncoolm.com/]tls://1.12.12.12 https://doh.360.cn
@@ -24400,7 +24363,6 @@ https://doh.18bit.cn/dns-query
 [/cnpot.com/]tls://1.12.12.12 https://doh.360.cn
 [/cnpou.com/]tls://1.12.12.12 https://doh.360.cn
 [/cnpoultry.com/]tls://1.12.12.12 https://doh.360.cn
-[/cnpowdertech.com/]tls://1.12.12.12 https://doh.360.cn
 [/cnpp100.com/]tls://1.12.12.12 https://doh.360.cn
 [/cnppa.org/]tls://1.12.12.12 https://doh.360.cn
 [/cnprac.xyz/]tls://1.12.12.12 https://doh.360.cn
@@ -25574,7 +25536,6 @@ https://doh.18bit.cn/dns-query
 [/cqkepu.com/]tls://1.12.12.12 https://doh.360.cn
 [/cqkerui.com/]tls://1.12.12.12 https://doh.360.cn
 [/cqkexun.com/]tls://1.12.12.12 https://doh.360.cn
-[/cqkeye.com/]tls://1.12.12.12 https://doh.360.cn
 [/cqkfb.com/]tls://1.12.12.12 https://doh.360.cn
 [/cqkhjt.cc/]tls://1.12.12.12 https://doh.360.cn
 [/cqkjb.com/]tls://1.12.12.12 https://doh.360.cn
@@ -26827,7 +26788,6 @@ https://doh.18bit.cn/dns-query
 [/cxsm.com/]tls://1.12.12.12 https://doh.360.cn
 [/cxstar.com/]tls://1.12.12.12 https://doh.360.cn
 [/cxsteel.com/]tls://1.12.12.12 https://doh.360.cn
-[/cxstgc.com/]tls://1.12.12.12 https://doh.360.cn
 [/cxsw3d.com/]tls://1.12.12.12 https://doh.360.cn
 [/cxta.com/]tls://1.12.12.12 https://doh.360.cn
 [/cxthhhhh.com/]tls://1.12.12.12 https://doh.360.cn
@@ -27331,7 +27291,6 @@ https://doh.18bit.cn/dns-query
 [/dadighost.com/]tls://1.12.12.12 https://doh.360.cn
 [/dadikid.net/]tls://1.12.12.12 https://doh.360.cn
 [/dadisalt.com/]tls://1.12.12.12 https://doh.360.cn
-[/dadiwang.com/]tls://1.12.12.12 https://doh.360.cn
 [/dadiyimao.com/]tls://1.12.12.12 https://doh.360.cn
 [/dadongwu.com/]tls://1.12.12.12 https://doh.360.cn
 [/dadou.com/]tls://1.12.12.12 https://doh.360.cn
@@ -27527,7 +27486,6 @@ https://doh.18bit.cn/dns-query
 [/daliaolaser.com/]tls://1.12.12.12 https://doh.360.cn
 [/daliapp.net/]tls://1.12.12.12 https://doh.360.cn
 [/dalidaily.com/]tls://1.12.12.12 https://doh.360.cn
-[/dalidm.com/]tls://1.12.12.12 https://doh.360.cn
 [/dalifa.com/]tls://1.12.12.12 https://doh.360.cn
 [/daliha.com/]tls://1.12.12.12 https://doh.360.cn
 [/dalipan.com/]tls://1.12.12.12 https://doh.360.cn
@@ -27636,7 +27594,6 @@ https://doh.18bit.cn/dns-query
 [/daniuguwang.com/]tls://1.12.12.12 https://doh.360.cn
 [/daniuit.com/]tls://1.12.12.12 https://doh.360.cn
 [/daniujiaoyu.com/]tls://1.12.12.12 https://doh.360.cn
-[/daniushiwan.com/]tls://1.12.12.12 https://doh.360.cn
 [/daniuwangxiao.com/]tls://1.12.12.12 https://doh.360.cn
 [/danji8.com/]tls://1.12.12.12 https://doh.360.cn
 [/danji9.com/]tls://1.12.12.12 https://doh.360.cn
@@ -28030,7 +27987,6 @@ https://doh.18bit.cn/dns-query
 [/dazhonghr.com/]tls://1.12.12.12 https://doh.360.cn
 [/dazhongkanche.com/]tls://1.12.12.12 https://doh.360.cn
 [/dazhongyi.cc/]tls://1.12.12.12 https://doh.360.cn
-[/dazhoumzj.com/]tls://1.12.12.12 https://doh.360.cn
 [/dazhoushan.com/]tls://1.12.12.12 https://doh.360.cn
 [/dazhouwater.com/]tls://1.12.12.12 https://doh.360.cn
 [/dazhu1988.com/]tls://1.12.12.12 https://doh.360.cn
@@ -28174,7 +28130,6 @@ https://doh.18bit.cn/dns-query
 [/dd0ss-waf.com/]tls://1.12.12.12 https://doh.360.cn
 [/dd128.com/]tls://1.12.12.12 https://doh.360.cn
 [/dd2007.com/]tls://1.12.12.12 https://doh.360.cn
-[/dd208.com/]tls://1.12.12.12 https://doh.360.cn
 [/dd369.com/]tls://1.12.12.12 https://doh.360.cn
 [/dd373.com/]tls://1.12.12.12 https://doh.360.cn
 [/dd4.com/]tls://1.12.12.12 https://doh.360.cn
@@ -28262,7 +28217,6 @@ https://doh.18bit.cn/dns-query
 [/ddstarapp.com/]tls://1.12.12.12 https://doh.360.cn
 [/ddsy.com/]tls://1.12.12.12 https://doh.360.cn
 [/ddtk.vip/]tls://1.12.12.12 https://doh.360.cn
-[/ddtsg.com/]tls://1.12.12.12 https://doh.360.cn
 [/ddtugame.com/]tls://1.12.12.12 https://doh.360.cn
 [/ddun.com/]tls://1.12.12.12 https://doh.360.cn
 [/ddunyun.com/]tls://1.12.12.12 https://doh.360.cn
@@ -28371,7 +28325,6 @@ https://doh.18bit.cn/dns-query
 [/deemos.com/]tls://1.12.12.12 https://doh.360.cn
 [/deep56.com/]tls://1.12.12.12 https://doh.360.cn
 [/deepblog.net/]tls://1.12.12.12 https://doh.360.cn
-[/deepc.cc/]tls://1.12.12.12 https://doh.360.cn
 [/deepcloudsdp.com/]tls://1.12.12.12 https://doh.360.cn
 [/deepcoin.red/]tls://1.12.12.12 https://doh.360.cn
 [/deepcool.com/]tls://1.12.12.12 https://doh.360.cn
@@ -28381,7 +28334,6 @@ https://doh.18bit.cn/dns-query
 [/deepin-ai.com/]tls://1.12.12.12 https://doh.360.cn
 [/deepin.com/]tls://1.12.12.12 https://doh.360.cn
 [/deepin.org/]tls://1.12.12.12 https://doh.360.cn
-[/deepinghost.com/]tls://1.12.12.12 https://doh.360.cn
 [/deepinmind.com/]tls://1.12.12.12 https://doh.360.cn
 [/deepinout.com/]tls://1.12.12.12 https://doh.360.cn
 [/deepinstall.com/]tls://1.12.12.12 https://doh.360.cn
@@ -28615,7 +28567,6 @@ https://doh.18bit.cn/dns-query
 [/devops-dev.com/]tls://1.12.12.12 https://doh.360.cn
 [/devotiongroup.com/]tls://1.12.12.12 https://doh.360.cn
 [/devourad.com/]tls://1.12.12.12 https://doh.360.cn
-[/devpss.com/]tls://1.12.12.12 https://doh.360.cn
 [/devsapp.net/]tls://1.12.12.12 https://doh.360.cn
 [/devsiki.com/]tls://1.12.12.12 https://doh.360.cn
 [/devskyr.com/]tls://1.12.12.12 https://doh.360.cn
@@ -30403,7 +30354,6 @@ https://doh.18bit.cn/dns-query
 [/dpfile.com/]tls://1.12.12.12 https://doh.360.cn
 [/dpgz.com/]tls://1.12.12.12 https://doh.360.cn
 [/dpin100.com/]tls://1.12.12.12 https://doh.360.cn
-[/dpjszs.com/]tls://1.12.12.12 https://doh.360.cn
 [/dpkyz.com/]tls://1.12.12.12 https://doh.360.cn
 [/dplor.com/]tls://1.12.12.12 https://doh.360.cn
 [/dplord.com/]tls://1.12.12.12 https://doh.360.cn
@@ -30736,7 +30686,6 @@ https://doh.18bit.cn/dns-query
 [/ducafecat.tech/]tls://1.12.12.12 https://doh.360.cn
 [/ducar.cc/]tls://1.12.12.12 https://doh.360.cn
 [/duchina.com/]tls://1.12.12.12 https://doh.360.cn
-[/duckyset.com/]tls://1.12.12.12 https://doh.360.cn
 [/dudong.com/]tls://1.12.12.12 https://doh.360.cn
 [/dudongsheji.com/]tls://1.12.12.12 https://doh.360.cn
 [/duduaa.com/]tls://1.12.12.12 https://doh.360.cn
@@ -31126,7 +31075,6 @@ https://doh.18bit.cn/dns-query
 [/dy2018.com/]tls://1.12.12.12 https://doh.360.cn
 [/dy2066.com/]tls://1.12.12.12 https://doh.360.cn
 [/dy3j.com/]tls://1.12.12.12 https://doh.360.cn
-[/dyaobo2029.com/]tls://1.12.12.12 https://doh.360.cn
 [/dybeta.com/]tls://1.12.12.12 https://doh.360.cn
 [/dycar.net/]tls://1.12.12.12 https://doh.360.cn
 [/dyccb.net/]tls://1.12.12.12 https://doh.360.cn
@@ -31169,7 +31117,6 @@ https://doh.18bit.cn/dns-query
 [/dykszx.com/]tls://1.12.12.12 https://doh.360.cn
 [/dykz66.com/]tls://1.12.12.12 https://doh.360.cn
 [/dylc.com/]tls://1.12.12.12 https://doh.360.cn
-[/dyls.app/]tls://1.12.12.12 https://doh.360.cn
 [/dyly.com/]tls://1.12.12.12 https://doh.360.cn
 [/dylyghm.com/]tls://1.12.12.12 https://doh.360.cn
 [/dymatic.com/]tls://1.12.12.12 https://doh.360.cn
@@ -31453,7 +31400,6 @@ https://doh.18bit.cn/dns-query
 [/e5e333e55e5e3d.xyz/]tls://1.12.12.12 https://doh.360.cn
 [/e5hc.com/]tls://1.12.12.12 https://doh.360.cn
 [/e5n.com/]tls://1.12.12.12 https://doh.360.cn
-[/e5tech.com/]tls://1.12.12.12 https://doh.360.cn
 [/e600.com/]tls://1.12.12.12 https://doh.360.cn
 [/e656gps.com/]tls://1.12.12.12 https://doh.360.cn
 [/e65u.com/]tls://1.12.12.12 https://doh.360.cn
@@ -31905,7 +31851,6 @@ https://doh.18bit.cn/dns-query
 [/ecyti.com/]tls://1.12.12.12 https://doh.360.cn
 [/ecyzm.com/]tls://1.12.12.12 https://doh.360.cn
 [/ed-textile.com/]tls://1.12.12.12 https://doh.360.cn
-[/ed21.cc/]tls://1.12.12.12 https://doh.360.cn
 [/ed2k.vip/]tls://1.12.12.12 https://doh.360.cn
 [/ed2kers.com/]tls://1.12.12.12 https://doh.360.cn
 [/ed2kk.com/]tls://1.12.12.12 https://doh.360.cn
@@ -32509,7 +32454,6 @@ https://doh.18bit.cn/dns-query
 [/embedu.org/]tls://1.12.12.12 https://doh.360.cn
 [/embedunion.com/]tls://1.12.12.12 https://doh.360.cn
 [/embedway.com/]tls://1.12.12.12 https://doh.360.cn
-[/embest-tech.com/]tls://1.12.12.12 https://doh.360.cn
 [/embryform.com/]tls://1.12.12.12 https://doh.360.cn
 [/embryochina.com/]tls://1.12.12.12 https://doh.360.cn
 [/embsky.com/]tls://1.12.12.12 https://doh.360.cn
@@ -32575,7 +32519,6 @@ https://doh.18bit.cn/dns-query
 [/emupic.com/]tls://1.12.12.12 https://doh.360.cn
 [/emushroom.net/]tls://1.12.12.12 https://doh.360.cn
 [/emwan.com/]tls://1.12.12.12 https://doh.360.cn
-[/emzexzfp.com/]tls://1.12.12.12 https://doh.360.cn
 [/en-micro.com/]tls://1.12.12.12 https://doh.360.cn
 [/en.people.cn.akadns99.net/]tls://1.12.12.12 https://doh.360.cn
 [/en.tm/]tls://1.12.12.12 https://doh.360.cn
@@ -32748,7 +32691,6 @@ https://doh.18bit.cn/dns-query
 [/eomgames.net/]tls://1.12.12.12 https://doh.360.cn
 [/eomoo.com/]tls://1.12.12.12 https://doh.360.cn
 [/eomoy.com/]tls://1.12.12.12 https://doh.360.cn
-[/eonad.org/]tls://1.12.12.12 https://doh.360.cn
 [/eonlytech.com/]tls://1.12.12.12 https://doh.360.cn
 [/eonun.com/]tls://1.12.12.12 https://doh.360.cn
 [/eoof.net/]tls://1.12.12.12 https://doh.360.cn
@@ -33332,7 +33274,6 @@ https://doh.18bit.cn/dns-query
 [/exbaotuan.com/]tls://1.12.12.12 https://doh.360.cn
 [/exbapp.com/]tls://1.12.12.12 https://doh.360.cn
 [/exbot.net/]tls://1.12.12.12 https://doh.360.cn
-[/exc-resin.com/]tls://1.12.12.12 https://doh.360.cn
 [/excake.com/]tls://1.12.12.12 https://doh.360.cn
 [/excalibur.link/]tls://1.12.12.12 https://doh.360.cn
 [/excarepharm.com/]tls://1.12.12.12 https://doh.360.cn
@@ -33634,7 +33575,6 @@ https://doh.18bit.cn/dns-query
 [/fa2da1f5b1024.beer/]tls://1.12.12.12 https://doh.360.cn
 [/fa80a608ec3e1ead.com/]tls://1.12.12.12 https://doh.360.cn
 [/faadcf6d01009.beer/]tls://1.12.12.12 https://doh.360.cn
-[/faakee.com/]tls://1.12.12.12 https://doh.360.cn
 [/faanw.com/]tls://1.12.12.12 https://doh.360.cn
 [/faayoo.com/]tls://1.12.12.12 https://doh.360.cn
 [/fabao365.com/]tls://1.12.12.12 https://doh.360.cn
@@ -33997,13 +33937,11 @@ https://doh.18bit.cn/dns-query
 [/fanyu.work/]tls://1.12.12.12 https://doh.360.cn
 [/fanzehua.com/]tls://1.12.12.12 https://doh.360.cn
 [/fanzhidu.com/]tls://1.12.12.12 https://doh.360.cn
-[/faoytgx372.cc/]tls://1.12.12.12 https://doh.360.cn
 [/fapharm.com/]tls://1.12.12.12 https://doh.360.cn
 [/fapiao.com/]tls://1.12.12.12 https://doh.360.cn
 [/fapiao365.com/]tls://1.12.12.12 https://doh.360.cn
 [/fapiaobang.com/]tls://1.12.12.12 https://doh.360.cn
 [/faq-whtasapp.com/]tls://1.12.12.12 https://doh.360.cn
-[/faq-whtasapp.net/]tls://1.12.12.12 https://doh.360.cn
 [/faqianjia.com/]tls://1.12.12.12 https://doh.360.cn
 [/faqiren.com/]tls://1.12.12.12 https://doh.360.cn
 [/far-china.com/]tls://1.12.12.12 https://doh.360.cn
@@ -34223,7 +34161,6 @@ https://doh.18bit.cn/dns-query
 [/fdeer.com/]tls://1.12.12.12 https://doh.360.cn
 [/fdevops.com/]tls://1.12.12.12 https://doh.360.cn
 [/fdf46bd061024.beer/]tls://1.12.12.12 https://doh.360.cn
-[/fdfhtl.com/]tls://1.12.12.12 https://doh.360.cn
 [/fdfinvoice.com/]tls://1.12.12.12 https://doh.360.cn
 [/fdgearbox.com/]tls://1.12.12.12 https://doh.360.cn
 [/fdjskf.com/]tls://1.12.12.12 https://doh.360.cn
@@ -34276,7 +34213,6 @@ https://doh.18bit.cn/dns-query
 [/feelcars.com/]tls://1.12.12.12 https://doh.360.cn
 [/feelchat.net/]tls://1.12.12.12 https://doh.360.cn
 [/feelec.net/]tls://1.12.12.12 https://doh.360.cn
-[/feelnowtrip.com/]tls://1.12.12.12 https://doh.360.cn
 [/feelsoar.com/]tls://1.12.12.12 https://doh.360.cn
 [/feemoo.com/]tls://1.12.12.12 https://doh.360.cn
 [/feemoo.hk/]tls://1.12.12.12 https://doh.360.cn
@@ -34542,7 +34478,6 @@ https://doh.18bit.cn/dns-query
 [/fengkui.net/]tls://1.12.12.12 https://doh.360.cn
 [/fenglao.org/]tls://1.12.12.12 https://doh.360.cn
 [/fengli.com/]tls://1.12.12.12 https://doh.360.cn
-[/fengli.su/]tls://1.12.12.12 https://doh.360.cn
 [/fengliankeji.com/]tls://1.12.12.12 https://doh.360.cn
 [/fenglichem.com/]tls://1.12.12.12 https://doh.360.cn
 [/fenglingkj.com/]tls://1.12.12.12 https://doh.360.cn
@@ -34599,7 +34534,6 @@ https://doh.18bit.cn/dns-query
 [/fengyushan.com/]tls://1.12.12.12 https://doh.360.cn
 [/fengyx.com/]tls://1.12.12.12 https://doh.360.cn
 [/fengzegroup.com/]tls://1.12.12.12 https://doh.360.cn
-[/fengzhan.vip/]tls://1.12.12.12 https://doh.360.cn
 [/fengzhangame.net/]tls://1.12.12.12 https://doh.360.cn
 [/fengzhao.net/]tls://1.12.12.12 https://doh.360.cn
 [/fengzigame.com/]tls://1.12.12.12 https://doh.360.cn
@@ -34798,7 +34732,6 @@ https://doh.18bit.cn/dns-query
 [/fillersmart.com/]tls://1.12.12.12 https://doh.360.cn
 [/fillseo.com/]tls://1.12.12.12 https://doh.360.cn
 [/film-yuelongchina.com/]tls://1.12.12.12 https://doh.360.cn
-[/filteringlist.com/]tls://1.12.12.12 https://doh.360.cn
 [/fily.fun/]tls://1.12.12.12 https://doh.360.cn
 [/fim34s.com/]tls://1.12.12.12 https://doh.360.cn
 [/fimmu.com/]tls://1.12.12.12 https://doh.360.cn
@@ -34928,11 +34861,6 @@ https://doh.18bit.cn/dns-query
 [/fitoneapp.com/]tls://1.12.12.12 https://doh.360.cn
 [/fittentech.com/]tls://1.12.12.12 https://doh.360.cn
 [/fittingcn.com/]tls://1.12.12.12 https://doh.360.cn
-[/fiu07021kl.com/]tls://1.12.12.12 https://doh.360.cn
-[/fiu07040kl.com/]tls://1.12.12.12 https://doh.360.cn
-[/fiu07050kl.com/]tls://1.12.12.12 https://doh.360.cn
-[/fiu07060kl.com/]tls://1.12.12.12 https://doh.360.cn
-[/fiu07090kl.com/]tls://1.12.12.12 https://doh.360.cn
 [/fiui.org/]tls://1.12.12.12 https://doh.360.cn
 [/fivecakes.com/]tls://1.12.12.12 https://doh.360.cn
 [/fivedo.net/]tls://1.12.12.12 https://doh.360.cn
@@ -35336,7 +35264,6 @@ https://doh.18bit.cn/dns-query
 [/fob123.com/]tls://1.12.12.12 https://doh.360.cn
 [/fob580.com/]tls://1.12.12.12 https://doh.360.cn
 [/fobaoyou.com/]tls://1.12.12.12 https://doh.360.cn
-[/fobbusinessforum.com/]tls://1.12.12.12 https://doh.360.cn
 [/fobcentury.com/]tls://1.12.12.12 https://doh.360.cn
 [/fobmy.com/]tls://1.12.12.12 https://doh.360.cn
 [/fobshanghai.com/]tls://1.12.12.12 https://doh.360.cn
@@ -35544,7 +35471,6 @@ https://doh.18bit.cn/dns-query
 [/foxconn.com/]tls://1.12.12.12 https://doh.360.cn
 [/foxirj.com/]tls://1.12.12.12 https://doh.360.cn
 [/foxmail.com/]tls://1.12.12.12 https://doh.360.cn
-[/foxphp.com/]tls://1.12.12.12 https://doh.360.cn
 [/foxqq.com/]tls://1.12.12.12 https://doh.360.cn
 [/foxtable.com/]tls://1.12.12.12 https://doh.360.cn
 [/foxuc.com/]tls://1.12.12.12 https://doh.360.cn
@@ -36504,7 +36430,6 @@ https://doh.18bit.cn/dns-query
 [/g5kj.com/]tls://1.12.12.12 https://doh.360.cn
 [/g63.fun/]tls://1.12.12.12 https://doh.360.cn
 [/g768r.com/]tls://1.12.12.12 https://doh.360.cn
-[/g77775555.com/]tls://1.12.12.12 https://doh.360.cn
 [/g80mx.com/]tls://1.12.12.12 https://doh.360.cn
 [/g88885555.com/]tls://1.12.12.12 https://doh.360.cn
 [/g8hh.com/]tls://1.12.12.12 https://doh.360.cn
@@ -36569,7 +36494,6 @@ https://doh.18bit.cn/dns-query
 [/gaizhui.com/]tls://1.12.12.12 https://doh.360.cn
 [/gajerseys.com/]tls://1.12.12.12 https://doh.360.cn
 [/gajsk.com/]tls://1.12.12.12 https://doh.360.cn
-[/gal3d.info/]tls://1.12.12.12 https://doh.360.cn
 [/gala-v.com/]tls://1.12.12.12 https://doh.360.cn
 [/galaxix.com/]tls://1.12.12.12 https://doh.360.cn
 [/galaxy-adx.com/]tls://1.12.12.12 https://doh.360.cn
@@ -37132,7 +37056,6 @@ https://doh.18bit.cn/dns-query
 [/gddjauto.com/]tls://1.12.12.12 https://doh.360.cn
 [/gddlaaa.com/]tls://1.12.12.12 https://doh.360.cn
 [/gddlkj.com/]tls://1.12.12.12 https://doh.360.cn
-[/gddmsmc.com/]tls://1.12.12.12 https://doh.360.cn
 [/gddqfs.com/]tls://1.12.12.12 https://doh.360.cn
 [/gddqfs.net/]tls://1.12.12.12 https://doh.360.cn
 [/gddrcgzjt.com/]tls://1.12.12.12 https://doh.360.cn
@@ -37976,7 +37899,6 @@ https://doh.18bit.cn/dns-query
 [/ggqx.com/]tls://1.12.12.12 https://doh.360.cn
 [/ggrcw.com/]tls://1.12.12.12 https://doh.360.cn
 [/ggren.net/]tls://1.12.12.12 https://doh.360.cn
-[/ggrsmy.com/]tls://1.12.12.12 https://doh.360.cn
 [/ggrsrc.com/]tls://1.12.12.12 https://doh.360.cn
 [/ggsafe.com/]tls://1.12.12.12 https://doh.360.cn
 [/ggsfcw.com/]tls://1.12.12.12 https://doh.360.cn
@@ -38297,7 +38219,6 @@ https://doh.18bit.cn/dns-query
 [/gl102.com/]tls://1.12.12.12 https://doh.360.cn
 [/gl114.net/]tls://1.12.12.12 https://doh.360.cn
 [/gl170.com/]tls://1.12.12.12 https://doh.360.cn
-[/gl17u.com/]tls://1.12.12.12 https://doh.360.cn
 [/gl18.com/]tls://1.12.12.12 https://doh.360.cn
 [/gl258.com/]tls://1.12.12.12 https://doh.360.cn
 [/gl2mt.com/]tls://1.12.12.12 https://doh.360.cn
@@ -38340,7 +38261,6 @@ https://doh.18bit.cn/dns-query
 [/gldjc.com/]tls://1.12.12.12 https://doh.360.cn
 [/gleasy.com/]tls://1.12.12.12 https://doh.360.cn
 [/glecan.com/]tls://1.12.12.12 https://doh.360.cn
-[/glelec.com/]tls://1.12.12.12 https://doh.360.cn
 [/gleyy.com/]tls://1.12.12.12 https://doh.360.cn
 [/glface.com/]tls://1.12.12.12 https://doh.360.cn
 [/glfangzhen.com/]tls://1.12.12.12 https://doh.360.cn
@@ -38399,7 +38319,6 @@ https://doh.18bit.cn/dns-query
 [/gljygd.com/]tls://1.12.12.12 https://doh.360.cn
 [/gljykj.com/]tls://1.12.12.12 https://doh.360.cn
 [/gljyrj.com/]tls://1.12.12.12 https://doh.360.cn
-[/gljzgs.com/]tls://1.12.12.12 https://doh.360.cn
 [/glk7.com/]tls://1.12.12.12 https://doh.360.cn
 [/glkgjt.com/]tls://1.12.12.12 https://doh.360.cn
 [/glkths.com/]tls://1.12.12.12 https://doh.360.cn
@@ -38425,7 +38344,6 @@ https://doh.18bit.cn/dns-query
 [/global-download.acer.com/]tls://1.12.12.12 https://doh.360.cn
 [/global-harbor.com/]tls://1.12.12.12 https://doh.360.cn
 [/global-idc.net/]tls://1.12.12.12 https://doh.360.cn
-[/global-jf.com/]tls://1.12.12.12 https://doh.360.cn
 [/global-ks-cdn.com/]tls://1.12.12.12 https://doh.360.cn
 [/global-leader.com/]tls://1.12.12.12 https://doh.360.cn
 [/global-otc.com/]tls://1.12.12.12 https://doh.360.cn
@@ -38516,7 +38434,6 @@ https://doh.18bit.cn/dns-query
 [/glxcc.net/]tls://1.12.12.12 https://doh.360.cn
 [/glxcjt.com/]tls://1.12.12.12 https://doh.360.cn
 [/glxhzs.com/]tls://1.12.12.12 https://doh.360.cn
-[/glxiaoyaohu.com/]tls://1.12.12.12 https://doh.360.cn
 [/glxinhu.com/]tls://1.12.12.12 https://doh.360.cn
 [/glxkbz.com/]tls://1.12.12.12 https://doh.360.cn
 [/glxsyx.vip/]tls://1.12.12.12 https://doh.360.cn
@@ -38707,7 +38624,6 @@ https://doh.18bit.cn/dns-query
 [/godgy.xyz/]tls://1.12.12.12 https://doh.360.cn
 [/godic.net/]tls://1.12.12.12 https://doh.360.cn
 [/godida.com/]tls://1.12.12.12 https://doh.360.cn
-[/godo.pub/]tls://1.12.12.12 https://doh.360.cn
 [/godoor.com/]tls://1.12.12.12 https://doh.360.cn
 [/godotcn.com/]tls://1.12.12.12 https://doh.360.cn
 [/godsheepteam.com/]tls://1.12.12.12 https://doh.360.cn
@@ -38890,6 +38806,7 @@ https://doh.18bit.cn/dns-query
 [/gongyelian.com/]tls://1.12.12.12 https://doh.360.cn
 [/gongyeyun.com/]tls://1.12.12.12 https://doh.360.cn
 [/gongyeyunwang.com/]tls://1.12.12.12 https://doh.360.cn
+[/gongyi.center/]tls://1.12.12.12 https://doh.360.cn
 [/gongyi.la/]tls://1.12.12.12 https://doh.360.cn
 [/gongyi.net/]tls://1.12.12.12 https://doh.360.cn
 [/gongyi.xin/]tls://1.12.12.12 https://doh.360.cn
@@ -39181,7 +39098,6 @@ https://doh.18bit.cn/dns-query
 [/gpxz.com/]tls://1.12.12.12 https://doh.360.cn
 [/gpxzw.com/]tls://1.12.12.12 https://doh.360.cn
 [/gpydxl.com/]tls://1.12.12.12 https://doh.360.cn
-[/gq60.com/]tls://1.12.12.12 https://doh.360.cn
 [/gqbmt.com/]tls://1.12.12.12 https://doh.360.cn
 [/gqgkj.com/]tls://1.12.12.12 https://doh.360.cn
 [/gqjd.net/]tls://1.12.12.12 https://doh.360.cn
@@ -39193,6 +39109,7 @@ https://doh.18bit.cn/dns-query
 [/gqsoso.com/]tls://1.12.12.12 https://doh.360.cn
 [/gqsyk.com/]tls://1.12.12.12 https://doh.360.cn
 [/gqt168.com/]tls://1.12.12.12 https://doh.360.cn
+[/gqyvyq.com/]tls://1.12.12.12 https://doh.360.cn
 [/gr-hospital.com/]tls://1.12.12.12 https://doh.360.cn
 [/gra-moissanitesorg.com/]tls://1.12.12.12 https://doh.360.cn
 [/grablan.com/]tls://1.12.12.12 https://doh.360.cn
@@ -39962,7 +39879,6 @@ https://doh.18bit.cn/dns-query
 [/guocuijingju.com/]tls://1.12.12.12 https://doh.360.cn
 [/guodashi.com/]tls://1.12.12.12 https://doh.360.cn
 [/guodatzjt.com/]tls://1.12.12.12 https://doh.360.cn
-[/guodegang.org/]tls://1.12.12.12 https://doh.360.cn
 [/guodi.net/]tls://1.12.12.12 https://doh.360.cn
 [/guodiana.com/]tls://1.12.12.12 https://doh.360.cn
 [/guodingnet.com/]tls://1.12.12.12 https://doh.360.cn
@@ -40178,7 +40094,6 @@ https://doh.18bit.cn/dns-query
 [/gweike.com/]tls://1.12.12.12 https://doh.360.cn
 [/gwell.cc/]tls://1.12.12.12 https://doh.360.cn
 [/gwenorcasv1.com/]tls://1.12.12.12 https://doh.360.cn
-[/gwepy.org/]tls://1.12.12.12 https://doh.360.cn
 [/gwetech.com/]tls://1.12.12.12 https://doh.360.cn
 [/gwfls.com/]tls://1.12.12.12 https://doh.360.cn
 [/gwfx.net/]tls://1.12.12.12 https://doh.360.cn
@@ -40261,7 +40176,6 @@ https://doh.18bit.cn/dns-query
 [/gxanchen.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxankao.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxantu.com/]tls://1.12.12.12 https://doh.360.cn
-[/gxaoma.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxar.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxasjc.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxasjn.com/]tls://1.12.12.12 https://doh.360.cn
@@ -40623,7 +40537,6 @@ https://doh.18bit.cn/dns-query
 [/gxgp123.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxgpo.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxgpzhtc.com/]tls://1.12.12.12 https://doh.360.cn
-[/gxgqdz.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxgqsn.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxgrasp.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxgree.com/]tls://1.12.12.12 https://doh.360.cn
@@ -40718,7 +40631,6 @@ https://doh.18bit.cn/dns-query
 [/gxhgzb.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxhgzc.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxhh.com/]tls://1.12.12.12 https://doh.360.cn
-[/gxhhgc.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxhhgs.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxhhhb.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxhhig.com/]tls://1.12.12.12 https://doh.360.cn
@@ -40785,7 +40697,6 @@ https://doh.18bit.cn/dns-query
 [/gxhuaqu.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxhuar.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxhuaxing.com/]tls://1.12.12.12 https://doh.360.cn
-[/gxhuaxintech.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxhui.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxhuicuibencao.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxhuifa.com/]tls://1.12.12.12 https://doh.360.cn
@@ -40969,7 +40880,6 @@ https://doh.18bit.cn/dns-query
 [/gxjxsy.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxjxwh.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxjycjsb.com/]tls://1.12.12.12 https://doh.360.cn
-[/gxjyfdc.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxjyfkj.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxjygljt.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxjyjs168.com/]tls://1.12.12.12 https://doh.360.cn
@@ -41228,7 +41138,6 @@ https://doh.18bit.cn/dns-query
 [/gxnncj.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxnnclt.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxnndghb.com/]tls://1.12.12.12 https://doh.360.cn
-[/gxnnedu.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxnnfx.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxnnhexiexinli.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxnnip.com/]tls://1.12.12.12 https://doh.360.cn
@@ -41302,7 +41211,6 @@ https://doh.18bit.cn/dns-query
 [/gxqfjzzs.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxqgjx.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxqgps.com/]tls://1.12.12.12 https://doh.360.cn
-[/gxqhcm.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxqhjc.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxqhtec.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxqianhan.com/]tls://1.12.12.12 https://doh.360.cn
@@ -41451,7 +41359,6 @@ https://doh.18bit.cn/dns-query
 [/gxskf.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxsksw.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxsksy.com/]tls://1.12.12.12 https://doh.360.cn
-[/gxsl.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxslbj.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxslcc.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxslyj.com/]tls://1.12.12.12 https://doh.360.cn
@@ -41618,7 +41525,6 @@ https://doh.18bit.cn/dns-query
 [/gxwzxhyq.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxwzyl.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxxbx.com/]tls://1.12.12.12 https://doh.360.cn
-[/gxxbzm.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxxdbp.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxxdit.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxxdpc.com/]tls://1.12.12.12 https://doh.360.cn
@@ -41665,10 +41571,8 @@ https://doh.18bit.cn/dns-query
 [/gxxjcz.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxxjry.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxxjsy.com/]tls://1.12.12.12 https://doh.360.cn
-[/gxxkai.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxxkgs.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxxkhj.com/]tls://1.12.12.12 https://doh.360.cn
-[/gxxkslgy.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxxldl.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxxlk.com/]tls://1.12.12.12 https://doh.360.cn
 [/gxxlkj.com/]tls://1.12.12.12 https://doh.360.cn
@@ -41940,7 +41844,6 @@ https://doh.18bit.cn/dns-query
 [/gy818.com/]tls://1.12.12.12 https://doh.360.cn
 [/gyaqyy.com/]tls://1.12.12.12 https://doh.360.cn
 [/gyb086.com/]tls://1.12.12.12 https://doh.360.cn
-[/gybcq.com/]tls://1.12.12.12 https://doh.360.cn
 [/gybsn.com/]tls://1.12.12.12 https://doh.360.cn
 [/gybyscy.com/]tls://1.12.12.12 https://doh.360.cn
 [/gycharm.com/]tls://1.12.12.12 https://doh.360.cn
@@ -42453,7 +42356,6 @@ https://doh.18bit.cn/dns-query
 [/gzsonic.com/]tls://1.12.12.12 https://doh.360.cn
 [/gzsouth.com/]tls://1.12.12.12 https://doh.360.cn
 [/gzspm.com/]tls://1.12.12.12 https://doh.360.cn
-[/gzspring.com/]tls://1.12.12.12 https://doh.360.cn
 [/gzspt.com/]tls://1.12.12.12 https://doh.360.cn
 [/gzsq.com/]tls://1.12.12.12 https://doh.360.cn
 [/gzsqkfyy.com/]tls://1.12.12.12 https://doh.360.cn
@@ -42587,7 +42489,6 @@ https://doh.18bit.cn/dns-query
 [/gzyflw.com/]tls://1.12.12.12 https://doh.360.cn
 [/gzyhg.vip/]tls://1.12.12.12 https://doh.360.cn
 [/gzyiagu.com/]tls://1.12.12.12 https://doh.360.cn
-[/gzyilongprinting.com/]tls://1.12.12.12 https://doh.360.cn
 [/gzylhyzx.com/]tls://1.12.12.12 https://doh.360.cn
 [/gzyouai.com/]tls://1.12.12.12 https://doh.360.cn
 [/gzyowin.com/]tls://1.12.12.12 https://doh.360.cn
@@ -43083,7 +42984,6 @@ https://doh.18bit.cn/dns-query
 [/hamdl.com/]tls://1.12.12.12 https://doh.360.cn
 [/hamedal.com/]tls://1.12.12.12 https://doh.360.cn
 [/haminol.com/]tls://1.12.12.12 https://doh.360.cn
-[/hammypuff.com/]tls://1.12.12.12 https://doh.360.cn
 [/hamu.site/]tls://1.12.12.12 https://doh.360.cn
 [/hanabi-live.com/]tls://1.12.12.12 https://doh.360.cn
 [/hanas.com/]tls://1.12.12.12 https://doh.360.cn
@@ -43289,7 +43189,6 @@ https://doh.18bit.cn/dns-query
 [/hanzhong123.com/]tls://1.12.12.12 https://doh.360.cn
 [/hanzhonggas.com/]tls://1.12.12.12 https://doh.360.cn
 [/hanzhoulaser.com/]tls://1.12.12.12 https://doh.360.cn
-[/hanzier.com/]tls://1.12.12.12 https://doh.360.cn
 [/hanzify.org/]tls://1.12.12.12 https://doh.360.cn
 [/hanziguan.com/]tls://1.12.12.12 https://doh.360.cn
 [/hao-shangliang.com/]tls://1.12.12.12 https://doh.360.cn
@@ -43440,7 +43339,6 @@ https://doh.18bit.cn/dns-query
 [/haokan5.com/]tls://1.12.12.12 https://doh.360.cn
 [/haokanbu.com/]tls://1.12.12.12 https://doh.360.cn
 [/haokanqq.com/]tls://1.12.12.12 https://doh.360.cn
-[/haokanshipin.com/]tls://1.12.12.12 https://doh.360.cn
 [/haokavip.com/]tls://1.12.12.12 https://doh.360.cn
 [/haoke100.com/]tls://1.12.12.12 https://doh.360.cn
 [/haokebang.net/]tls://1.12.12.12 https://doh.360.cn
@@ -43637,6 +43535,7 @@ https://doh.18bit.cn/dns-query
 [/hapg-hitachi.com/]tls://1.12.12.12 https://doh.360.cn
 [/hapi123.net/]tls://1.12.12.12 https://doh.360.cn
 [/hapids.com/]tls://1.12.12.12 https://doh.360.cn
+[/hapigo.com/]tls://1.12.12.12 https://doh.360.cn
 [/hapingapp.com/]tls://1.12.12.12 https://doh.360.cn
 [/haplat.net/]tls://1.12.12.12 https://doh.360.cn
 [/happi123.com/]tls://1.12.12.12 https://doh.360.cn
@@ -43814,7 +43713,6 @@ https://doh.18bit.cn/dns-query
 [/hbcg.cc/]tls://1.12.12.12 https://doh.360.cn
 [/hbchen.com/]tls://1.12.12.12 https://doh.360.cn
 [/hbchufeng.com/]tls://1.12.12.12 https://doh.360.cn
-[/hbcjh.net/]tls://1.12.12.12 https://doh.360.cn
 [/hbcjkcfwjt.com/]tls://1.12.12.12 https://doh.360.cn
 [/hbcjlq.com/]tls://1.12.12.12 https://doh.360.cn
 [/hbcjw.com/]tls://1.12.12.12 https://doh.360.cn
@@ -44275,7 +44173,6 @@ https://doh.18bit.cn/dns-query
 [/hdanc.com/]tls://1.12.12.12 https://doh.360.cn
 [/hdarea.club/]tls://1.12.12.12 https://doh.360.cn
 [/hdavchina.com/]tls://1.12.12.12 https://doh.360.cn
-[/hdb.com/]tls://1.12.12.12 https://doh.360.cn
 [/hdb489.com/]tls://1.12.12.12 https://doh.360.cn
 [/hdbaichuan.com/]tls://1.12.12.12 https://doh.360.cn
 [/hdbgjt.com/]tls://1.12.12.12 https://doh.360.cn
@@ -45103,7 +45000,6 @@ https://doh.18bit.cn/dns-query
 [/hg-daigou.com/]tls://1.12.12.12 https://doh.360.cn
 [/hg1218.com/]tls://1.12.12.12 https://doh.360.cn
 [/hg12333.com/]tls://1.12.12.12 https://doh.360.cn
-[/hg5177.com/]tls://1.12.12.12 https://doh.360.cn
 [/hg568.com/]tls://1.12.12.12 https://doh.360.cn
 [/hg8880.org/]tls://1.12.12.12 https://doh.360.cn
 [/hg9895.com/]tls://1.12.12.12 https://doh.360.cn
@@ -46310,7 +46206,6 @@ https://doh.18bit.cn/dns-query
 [/hnzywh.xyz/]tls://1.12.12.12 https://doh.360.cn
 [/hnzyxckj.com/]tls://1.12.12.12 https://doh.360.cn
 [/hnzyydx.com/]tls://1.12.12.12 https://doh.360.cn
-[/hnzyzx.com/]tls://1.12.12.12 https://doh.360.cn
 [/hnzzjob.com/]tls://1.12.12.12 https://doh.360.cn
 [/hnzzlh.com/]tls://1.12.12.12 https://doh.360.cn
 [/hnzzms.com/]tls://1.12.12.12 https://doh.360.cn
@@ -46439,7 +46334,6 @@ https://doh.18bit.cn/dns-query
 [/hongbo100.com/]tls://1.12.12.12 https://doh.360.cn
 [/hongboluo.com/]tls://1.12.12.12 https://doh.360.cn
 [/hongcesys.com/]tls://1.12.12.12 https://doh.360.cn
-[/hongchangpawn.com/]tls://1.12.12.12 https://doh.360.cn
 [/hongchisw.com/]tls://1.12.12.12 https://doh.360.cn
 [/hongchuangholding.com/]tls://1.12.12.12 https://doh.360.cn
 [/hongda-steeltube.com/]tls://1.12.12.12 https://doh.360.cn
@@ -46472,7 +46366,6 @@ https://doh.18bit.cn/dns-query
 [/hongjiang.info/]tls://1.12.12.12 https://doh.360.cn
 [/hongjiejia.com/]tls://1.12.12.12 https://doh.360.cn
 [/hongjigroupsz.com/]tls://1.12.12.12 https://doh.360.cn
-[/hongjin2.com/]tls://1.12.12.12 https://doh.360.cn
 [/hongjing-wh.com/]tls://1.12.12.12 https://doh.360.cn
 [/hongjing.com/]tls://1.12.12.12 https://doh.360.cn
 [/hongjing3.com/]tls://1.12.12.12 https://doh.360.cn
@@ -47330,6 +47223,7 @@ https://doh.18bit.cn/dns-query
 [/huabeicw.com/]tls://1.12.12.12 https://doh.360.cn
 [/huabian.com/]tls://1.12.12.12 https://doh.360.cn
 [/huabianyl.com/]tls://1.12.12.12 https://doh.360.cn
+[/huabiaolaw.com/]tls://1.12.12.12 https://doh.360.cn
 [/huabo.net/]tls://1.12.12.12 https://doh.360.cn
 [/huabokeji.com/]tls://1.12.12.12 https://doh.360.cn
 [/huabot.com/]tls://1.12.12.12 https://doh.360.cn
@@ -47828,11 +47722,9 @@ https://doh.18bit.cn/dns-query
 [/huayiyunxinxi.com/]tls://1.12.12.12 https://doh.360.cn
 [/huayou.com/]tls://1.12.12.12 https://doh.360.cn
 [/huayoumengze.com/]tls://1.12.12.12 https://doh.360.cn
-[/huayoutianyu.com/]tls://1.12.12.12 https://doh.360.cn
 [/huayuan-print.com/]tls://1.12.12.12 https://doh.360.cn
 [/huayuanlcd.com/]tls://1.12.12.12 https://doh.360.cn
 [/huayuchaxiang.com/]tls://1.12.12.12 https://doh.360.cn
-[/huayue119.com/]tls://1.12.12.12 https://doh.360.cn
 [/huayueivf.com/]tls://1.12.12.12 https://doh.360.cn
 [/huayufilter.com/]tls://1.12.12.12 https://doh.360.cn
 [/huayug.com/]tls://1.12.12.12 https://doh.360.cn
@@ -48839,7 +48731,6 @@ https://doh.18bit.cn/dns-query
 [/hyhuo.com/]tls://1.12.12.12 https://doh.360.cn
 [/hyhxt.net/]tls://1.12.12.12 https://doh.360.cn
 [/hyhy.cc/]tls://1.12.12.12 https://doh.360.cn
-[/hyhyn.com/]tls://1.12.12.12 https://doh.360.cn
 [/hyilp.com/]tls://1.12.12.12 https://doh.360.cn
 [/hyimmi.com/]tls://1.12.12.12 https://doh.360.cn
 [/hyipchina.com/]tls://1.12.12.12 https://doh.360.cn
@@ -49339,7 +49230,6 @@ https://doh.18bit.cn/dns-query
 [/hzwomenmarathon.com/]tls://1.12.12.12 https://doh.360.cn
 [/hzwotu.com/]tls://1.12.12.12 https://doh.360.cn
 [/hzwqscl.com/]tls://1.12.12.12 https://doh.360.cn
-[/hzwsjyjt.com/]tls://1.12.12.12 https://doh.360.cn
 [/hzwtech.com/]tls://1.12.12.12 https://doh.360.cn
 [/hzx.center/]tls://1.12.12.12 https://doh.360.cn
 [/hzx8188.com/]tls://1.12.12.12 https://doh.360.cn
@@ -49954,7 +49844,6 @@ https://doh.18bit.cn/dns-query
 [/iczhiku.com/]tls://1.12.12.12 https://doh.360.cn
 [/iczoom.com/]tls://1.12.12.12 https://doh.360.cn
 [/id-bear.com/]tls://1.12.12.12 https://doh.360.cn
-[/id-photo-verify.com/]tls://1.12.12.12 https://doh.360.cn
 [/id57.com/]tls://1.12.12.12 https://doh.360.cn
 [/id6.me/]tls://1.12.12.12 https://doh.360.cn
 [/ida-a.org/]tls://1.12.12.12 https://doh.360.cn
@@ -51283,7 +51172,6 @@ https://doh.18bit.cn/dns-query
 [/inxedu.com/]tls://1.12.12.12 https://doh.360.cn
 [/inxni.com/]tls://1.12.12.12 https://doh.360.cn
 [/inxunoffice.com/]tls://1.12.12.12 https://doh.360.cn
-[/inyota.com/]tls://1.12.12.12 https://doh.360.cn
 [/inzone-auto.com/]tls://1.12.12.12 https://doh.360.cn
 [/inzotek.com/]tls://1.12.12.12 https://doh.360.cn
 [/ioa365.com/]tls://1.12.12.12 https://doh.360.cn
@@ -51590,7 +51478,6 @@ https://doh.18bit.cn/dns-query
 [/irmleader.com/]tls://1.12.12.12 https://doh.360.cn
 [/irobotbox.com/]tls://1.12.12.12 https://doh.360.cn
 [/irockbunny.com/]tls://1.12.12.12 https://doh.360.cn
-[/iroing.com/]tls://1.12.12.12 https://doh.360.cn
 [/ironfishchina.com/]tls://1.12.12.12 https://doh.360.cn
 [/irongbei.com/]tls://1.12.12.12 https://doh.360.cn
 [/ironghui.com/]tls://1.12.12.12 https://doh.360.cn
@@ -51964,6 +51851,7 @@ https://doh.18bit.cn/dns-query
 [/itpwd.com/]tls://1.12.12.12 https://doh.360.cn
 [/itqaq.com/]tls://1.12.12.12 https://doh.360.cn
 [/itrace.cc/]tls://1.12.12.12 https://doh.360.cn
+[/itravelsaas.com/]tls://1.12.12.12 https://doh.360.cn
 [/itredu.com/]tls://1.12.12.12 https://doh.360.cn
 [/itrid.com/]tls://1.12.12.12 https://doh.360.cn
 [/itrip.com/]tls://1.12.12.12 https://doh.360.cn
@@ -52000,7 +51888,6 @@ https://doh.18bit.cn/dns-query
 [/ituun.com/]tls://1.12.12.12 https://doh.360.cn
 [/ituut.com/]tls://1.12.12.12 https://doh.360.cn
 [/itv.video/]tls://1.12.12.12 https://doh.360.cn
-[/itvcn.com/]tls://1.12.12.12 https://doh.360.cn
 [/itwanger.com/]tls://1.12.12.12 https://doh.360.cn
 [/itwlw.com/]tls://1.12.12.12 https://doh.360.cn
 [/itwork.club/]tls://1.12.12.12 https://doh.360.cn
@@ -52031,7 +51918,6 @@ https://doh.18bit.cn/dns-query
 [/iuban.com/]tls://1.12.12.12 https://doh.360.cn
 [/iucdn.com/]tls://1.12.12.12 https://doh.360.cn
 [/iuctrip.com/]tls://1.12.12.12 https://doh.360.cn
-[/iufida.com/]tls://1.12.12.12 https://doh.360.cn
 [/iuinns.com/]tls://1.12.12.12 https://doh.360.cn
 [/iuiu.site/]tls://1.12.12.12 https://doh.360.cn
 [/iumemo.com/]tls://1.12.12.12 https://doh.360.cn
@@ -52317,7 +52203,6 @@ https://doh.18bit.cn/dns-query
 [/j-ui.com/]tls://1.12.12.12 https://doh.360.cn
 [/j.people.com.cn.akadns99.net/]tls://1.12.12.12 https://doh.360.cn
 [/j03og.app/]tls://1.12.12.12 https://doh.360.cn
-[/j0g0.com/]tls://1.12.12.12 https://doh.360.cn
 [/j1998.com/]tls://1.12.12.12 https://doh.360.cn
 [/j1j5q683cj.world/]tls://1.12.12.12 https://doh.360.cn
 [/j2ee.cc/]tls://1.12.12.12 https://doh.360.cn
@@ -52328,6 +52213,7 @@ https://doh.18bit.cn/dns-query
 [/j5k6.com/]tls://1.12.12.12 https://doh.360.cn
 [/j66.net/]tls://1.12.12.12 https://doh.360.cn
 [/j8.net/]tls://1.12.12.12 https://doh.360.cn
+[/j8gm.com/]tls://1.12.12.12 https://doh.360.cn
 [/j8j9.com/]tls://1.12.12.12 https://doh.360.cn
 [/j95a.com/]tls://1.12.12.12 https://doh.360.cn
 [/j99h8.com/]tls://1.12.12.12 https://doh.360.cn
@@ -52396,7 +52282,6 @@ https://doh.18bit.cn/dns-query
 [/jarods.org/]tls://1.12.12.12 https://doh.360.cn
 [/jarvisw.com/]tls://1.12.12.12 https://doh.360.cn
 [/jasangroup.com/]tls://1.12.12.12 https://doh.360.cn
-[/jasbasnkilonau6.com/]tls://1.12.12.12 https://doh.360.cn
 [/jasminer.com/]tls://1.12.12.12 https://doh.360.cn
 [/jasolar.com/]tls://1.12.12.12 https://doh.360.cn
 [/jason-z.com/]tls://1.12.12.12 https://doh.360.cn
@@ -52741,7 +52626,6 @@ https://doh.18bit.cn/dns-query
 [/jdplay.com/]tls://1.12.12.12 https://doh.360.cn
 [/jdpta.com/]tls://1.12.12.12 https://doh.360.cn
 [/jdreader.net/]tls://1.12.12.12 https://doh.360.cn
-[/jdrns.com/]tls://1.12.12.12 https://doh.360.cn
 [/jdrq.net/]tls://1.12.12.12 https://doh.360.cn
 [/jdsafe.com/]tls://1.12.12.12 https://doh.360.cn
 [/jdsha.com/]tls://1.12.12.12 https://doh.360.cn
@@ -52882,7 +52766,6 @@ https://doh.18bit.cn/dns-query
 [/jf1898.com/]tls://1.12.12.12 https://doh.360.cn
 [/jf1969.com/]tls://1.12.12.12 https://doh.360.cn
 [/jf258.com/]tls://1.12.12.12 https://doh.360.cn
-[/jf8e.com/]tls://1.12.12.12 https://doh.360.cn
 [/jf900.com/]tls://1.12.12.12 https://doh.360.cn
 [/jf9p.com/]tls://1.12.12.12 https://doh.360.cn
 [/jfagroup.com/]tls://1.12.12.12 https://doh.360.cn
@@ -53148,7 +53031,6 @@ https://doh.18bit.cn/dns-query
 [/jianada-qianzheng.com/]tls://1.12.12.12 https://doh.360.cn
 [/jianae.com/]tls://1.12.12.12 https://doh.360.cn
 [/jianai.love/]tls://1.12.12.12 https://doh.360.cn
-[/jianai360.com/]tls://1.12.12.12 https://doh.360.cn
 [/jianavi.com/]tls://1.12.12.12 https://doh.360.cn
 [/jianayangzhiguo01.com/]tls://1.12.12.12 https://doh.360.cn
 [/jianbaizhan.com/]tls://1.12.12.12 https://doh.360.cn
@@ -53693,7 +53575,6 @@ https://doh.18bit.cn/dns-query
 [/jikejiazhuang.com/]tls://1.12.12.12 https://doh.360.cn
 [/jikejishu.com/]tls://1.12.12.12 https://doh.360.cn
 [/jikeq.com/]tls://1.12.12.12 https://doh.360.cn
-[/jiketuchuang.com/]tls://1.12.12.12 https://doh.360.cn
 [/jikewan.com/]tls://1.12.12.12 https://doh.360.cn
 [/jikexiaojiang.com/]tls://1.12.12.12 https://doh.360.cn
 [/jikexiu.com/]tls://1.12.12.12 https://doh.360.cn
@@ -54080,7 +53961,6 @@ https://doh.18bit.cn/dns-query
 [/jinqi2023.com/]tls://1.12.12.12 https://doh.360.cn
 [/jinqiang.online/]tls://1.12.12.12 https://doh.360.cn
 [/jinqiangjc.com/]tls://1.12.12.12 https://doh.360.cn
-[/jinqianguan.com/]tls://1.12.12.12 https://doh.360.cn
 [/jinqianma.com/]tls://1.12.12.12 https://doh.360.cn
 [/jinqiaopu.com/]tls://1.12.12.12 https://doh.360.cn
 [/jinqiexia.com/]tls://1.12.12.12 https://doh.360.cn
@@ -55114,7 +54994,6 @@ https://doh.18bit.cn/dns-query
 [/joqoo.com/]tls://1.12.12.12 https://doh.360.cn
 [/josen.net/]tls://1.12.12.12 https://doh.360.cn
 [/josephcz.xyz/]tls://1.12.12.12 https://doh.360.cn
-[/joshreso.com/]tls://1.12.12.12 https://doh.360.cn
 [/joshua317.com/]tls://1.12.12.12 https://doh.360.cn
 [/jotop.com/]tls://1.12.12.12 https://doh.360.cn
 [/jotrin.com/]tls://1.12.12.12 https://doh.360.cn
@@ -55813,7 +55692,6 @@ https://doh.18bit.cn/dns-query
 [/jsweixiu.com/]tls://1.12.12.12 https://doh.360.cn
 [/jswel.com/]tls://1.12.12.12 https://doh.360.cn
 [/jswenguang.com/]tls://1.12.12.12 https://doh.360.cn
-[/jswenjin.com/]tls://1.12.12.12 https://doh.360.cn
 [/jswfgroup.com/]tls://1.12.12.12 https://doh.360.cn
 [/jswjkj.net/]tls://1.12.12.12 https://doh.360.cn
 [/jswmw.com/]tls://1.12.12.12 https://doh.360.cn
@@ -56478,7 +56356,6 @@ https://doh.18bit.cn/dns-query
 [/jxeca.com/]tls://1.12.12.12 https://doh.360.cn
 [/jxedgroup.com/]tls://1.12.12.12 https://doh.360.cn
 [/jxedt.com/]tls://1.12.12.12 https://doh.360.cn
-[/jxedu.net/]tls://1.12.12.12 https://doh.360.cn
 [/jxeduyun.com/]tls://1.12.12.12 https://doh.360.cn
 [/jxenglish.com/]tls://1.12.12.12 https://doh.360.cn
 [/jxep.net/]tls://1.12.12.12 https://doh.360.cn
@@ -56917,6 +56794,7 @@ https://doh.18bit.cn/dns-query
 [/k8stech.net/]tls://1.12.12.12 https://doh.360.cn
 [/k913.com/]tls://1.12.12.12 https://doh.360.cn
 [/k99.cc/]tls://1.12.12.12 https://doh.360.cn
+[/ka016.com/]tls://1.12.12.12 https://doh.360.cn
 [/ka20.com/]tls://1.12.12.12 https://doh.360.cn
 [/ka5188.com/]tls://1.12.12.12 https://doh.360.cn
 [/kaaass.net/]tls://1.12.12.12 https://doh.360.cn
@@ -57421,7 +57299,6 @@ https://doh.18bit.cn/dns-query
 [/kdlgs.com/]tls://1.12.12.12 https://doh.360.cn
 [/kdnet.net/]tls://1.12.12.12 https://doh.360.cn
 [/kdniao.com/]tls://1.12.12.12 https://doh.360.cn
-[/kdpt.net/]tls://1.12.12.12 https://doh.360.cn
 [/kdr163.com/]tls://1.12.12.12 https://doh.360.cn
 [/kdrmd.com/]tls://1.12.12.12 https://doh.360.cn
 [/kdroid.club/]tls://1.12.12.12 https://doh.360.cn
@@ -58307,8 +58184,6 @@ https://doh.18bit.cn/dns-query
 [/kongqueyuzd.cc/]tls://1.12.12.12 https://doh.360.cn
 [/kongrong.com/]tls://1.12.12.12 https://doh.360.cn
 [/kongtiao163.com/]tls://1.12.12.12 https://doh.360.cn
-[/kongtiao365.com/]tls://1.12.12.12 https://doh.360.cn
-[/kongwu2022.com/]tls://1.12.12.12 https://doh.360.cn
 [/kongzhi.net/]tls://1.12.12.12 https://doh.360.cn
 [/kongzhong.com/]tls://1.12.12.12 https://doh.360.cn
 [/konka.com/]tls://1.12.12.12 https://doh.360.cn
@@ -58340,7 +58215,6 @@ https://doh.18bit.cn/dns-query
 [/koowo.com/]tls://1.12.12.12 https://doh.360.cn
 [/kopebe.com/]tls://1.12.12.12 https://doh.360.cn
 [/kopisee.com/]tls://1.12.12.12 https://doh.360.cn
-[/kopitokein.com/]tls://1.12.12.12 https://doh.360.cn
 [/koplayer.com/]tls://1.12.12.12 https://doh.360.cn
 [/kopperchem.com/]tls://1.12.12.12 https://doh.360.cn
 [/koreabt.com/]tls://1.12.12.12 https://doh.360.cn
@@ -58527,7 +58401,6 @@ https://doh.18bit.cn/dns-query
 [/ksrmyy.org/]tls://1.12.12.12 https://doh.360.cn
 [/ksrsy.com/]tls://1.12.12.12 https://doh.360.cn
 [/ksruanjian.com/]tls://1.12.12.12 https://doh.360.cn
-[/kssip.msi.com/]tls://1.12.12.12 https://doh.360.cn
 [/kssjkj.com/]tls://1.12.12.12 https://doh.360.cn
 [/ksslxh.com/]tls://1.12.12.12 https://doh.360.cn
 [/kst-cn.com/]tls://1.12.12.12 https://doh.360.cn
@@ -59003,7 +58876,6 @@ https://doh.18bit.cn/dns-query
 [/kvogues.com/]tls://1.12.12.12 https://doh.360.cn
 [/kvov.com/]tls://1.12.12.12 https://doh.360.cn
 [/kvps85.com/]tls://1.12.12.12 https://doh.360.cn
-[/kw007.com/]tls://1.12.12.12 https://doh.360.cn
 [/kwai-group.com/]tls://1.12.12.12 https://doh.360.cn
 [/kwai666.com/]tls://1.12.12.12 https://doh.360.cn
 [/kwaiadapp.com/]tls://1.12.12.12 https://doh.360.cn
@@ -59120,7 +58992,6 @@ https://doh.18bit.cn/dns-query
 [/kygroup.ltd/]tls://1.12.12.12 https://doh.360.cn
 [/kyhtech.com/]tls://1.12.12.12 https://doh.360.cn
 [/kyhyxy.com/]tls://1.12.12.12 https://doh.360.cn
-[/kyjlhz.com/]tls://1.12.12.12 https://doh.360.cn
 [/kyjxy.com/]tls://1.12.12.12 https://doh.360.cn
 [/kyk.cc/]tls://1.12.12.12 https://doh.360.cn
 [/kykjgroup.com/]tls://1.12.12.12 https://doh.360.cn
@@ -59157,7 +59028,6 @@ https://doh.18bit.cn/dns-query
 [/kzcpm.com/]tls://1.12.12.12 https://doh.360.cn
 [/kzgui.com/]tls://1.12.12.12 https://doh.360.cn
 [/kzmyhome.com/]tls://1.12.12.12 https://doh.360.cn
-[/kzo.moe/]tls://1.12.12.12 https://doh.360.cn
 [/kzrcw.com/]tls://1.12.12.12 https://doh.360.cn
 [/kzread.com/]tls://1.12.12.12 https://doh.360.cn
 [/kzrqicae.com/]tls://1.12.12.12 https://doh.360.cn
@@ -59275,7 +59145,6 @@ https://doh.18bit.cn/dns-query
 [/laisai.com/]tls://1.12.12.12 https://doh.360.cn
 [/laishui.info/]tls://1.12.12.12 https://doh.360.cn
 [/laisizuji.com/]tls://1.12.12.12 https://doh.360.cn
-[/laisj.com/]tls://1.12.12.12 https://doh.360.cn
 [/laitelaide.com/]tls://1.12.12.12 https://doh.360.cn
 [/laituia.com/]tls://1.12.12.12 https://doh.360.cn
 [/laituijian.net/]tls://1.12.12.12 https://doh.360.cn
@@ -59597,7 +59466,6 @@ https://doh.18bit.cn/dns-query
 [/laolaishou.com/]tls://1.12.12.12 https://doh.360.cn
 [/laolaomiyou.com/]tls://1.12.12.12 https://doh.360.cn
 [/laoliang.net/]tls://1.12.12.12 https://doh.360.cn
-[/laoliboke.com/]tls://1.12.12.12 https://doh.360.cn
 [/laolieren.com/]tls://1.12.12.12 https://doh.360.cn
 [/laolieren.shop/]tls://1.12.12.12 https://doh.360.cn
 [/laoliuceping.com/]tls://1.12.12.12 https://doh.360.cn
@@ -59625,7 +59493,6 @@ https://doh.18bit.cn/dns-query
 [/laowuxx.com/]tls://1.12.12.12 https://doh.360.cn
 [/laoxiangji.com/]tls://1.12.12.12 https://doh.360.cn
 [/laoxianhui.com/]tls://1.12.12.12 https://doh.360.cn
-[/laoxiezi.com/]tls://1.12.12.12 https://doh.360.cn
 [/laoxuean.com/]tls://1.12.12.12 https://doh.360.cn
 [/laoxuehost.net/]tls://1.12.12.12 https://doh.360.cn
 [/laoxuezhuji.com/]tls://1.12.12.12 https://doh.360.cn
@@ -60477,7 +60344,6 @@ https://doh.18bit.cn/dns-query
 [/lfjx88.com/]tls://1.12.12.12 https://doh.360.cn
 [/lfkjgh.com/]tls://1.12.12.12 https://doh.360.cn
 [/lfksqzj.com/]tls://1.12.12.12 https://doh.360.cn
-[/lfmxc.com/]tls://1.12.12.12 https://doh.360.cn
 [/lfppt.com/]tls://1.12.12.12 https://doh.360.cn
 [/lfqysm.com/]tls://1.12.12.12 https://doh.360.cn
 [/lfrczp.com/]tls://1.12.12.12 https://doh.360.cn
@@ -62287,7 +62153,6 @@ https://doh.18bit.cn/dns-query
 [/lpspt.com/]tls://1.12.12.12 https://doh.360.cn
 [/lpszstv.com/]tls://1.12.12.12 https://doh.360.cn
 [/lptiyu.com/]tls://1.12.12.12 https://doh.360.cn
-[/lpxinjuhui.com/]tls://1.12.12.12 https://doh.360.cn
 [/lpxinke.com/]tls://1.12.12.12 https://doh.360.cn
 [/lpxt.com/]tls://1.12.12.12 https://doh.360.cn
 [/lpxuqi2057.vip/]tls://1.12.12.12 https://doh.360.cn
@@ -62322,7 +62187,6 @@ https://doh.18bit.cn/dns-query
 [/lqzp.com/]tls://1.12.12.12 https://doh.360.cn
 [/lqzwdj.com/]tls://1.12.12.12 https://doh.360.cn
 [/lr-amm.com/]tls://1.12.12.12 https://doh.360.cn
-[/lr-link.com/]tls://1.12.12.12 https://doh.360.cn
 [/lrc99.com/]tls://1.12.12.12 https://doh.360.cn
 [/lrcb.net/]tls://1.12.12.12 https://doh.360.cn
 [/lrdcq.com/]tls://1.12.12.12 https://doh.360.cn
@@ -62722,7 +62586,6 @@ https://doh.18bit.cn/dns-query
 [/luoxue.com/]tls://1.12.12.12 https://doh.360.cn
 [/luoyangdx.com/]tls://1.12.12.12 https://doh.360.cn
 [/luoyangkeji.com/]tls://1.12.12.12 https://doh.360.cn
-[/luoyangmalasong.com/]tls://1.12.12.12 https://doh.360.cn
 [/luoyechenfei.com/]tls://1.12.12.12 https://doh.360.cn
 [/luoying66.com/]tls://1.12.12.12 https://doh.360.cn
 [/luoyingsh.com/]tls://1.12.12.12 https://doh.360.cn
@@ -63200,7 +63063,6 @@ https://doh.18bit.cn/dns-query
 [/lyz810.com/]tls://1.12.12.12 https://doh.360.cn
 [/lyzaix.com/]tls://1.12.12.12 https://doh.360.cn
 [/lyzb.com/]tls://1.12.12.12 https://doh.360.cn
-[/lyzb33.app/]tls://1.12.12.12 https://doh.360.cn
 [/lyzfgjj.com/]tls://1.12.12.12 https://doh.360.cn
 [/lyzlzz.com/]tls://1.12.12.12 https://doh.360.cn
 [/lyzp100.com/]tls://1.12.12.12 https://doh.360.cn
@@ -63608,7 +63470,6 @@ https://doh.18bit.cn/dns-query
 [/maibangbang.net/]tls://1.12.12.12 https://doh.360.cn
 [/maibaokeji.com/]tls://1.12.12.12 https://doh.360.cn
 [/maibuymai.com/]tls://1.12.12.12 https://doh.360.cn
-[/maichawang.com/]tls://1.12.12.12 https://doh.360.cn
 [/maiche.com/]tls://1.12.12.12 https://doh.360.cn
 [/maiche168.com/]tls://1.12.12.12 https://doh.360.cn
 [/maicheme.com/]tls://1.12.12.12 https://doh.360.cn
@@ -63841,7 +63702,6 @@ https://doh.18bit.cn/dns-query
 [/mangomob.net/]tls://1.12.12.12 https://doh.360.cn
 [/mangoru.site/]tls://1.12.12.12 https://doh.360.cn
 [/mangren.com/]tls://1.12.12.12 https://doh.360.cn
-[/mangrovetek.com/]tls://1.12.12.12 https://doh.360.cn
 [/mangrovetreeresort.com/]tls://1.12.12.12 https://doh.360.cn
 [/mangtian.com/]tls://1.12.12.12 https://doh.360.cn
 [/mangtuhuyu.com/]tls://1.12.12.12 https://doh.360.cn
@@ -63932,7 +63792,6 @@ https://doh.18bit.cn/dns-query
 [/maogumaogu.com/]tls://1.12.12.12 https://doh.360.cn
 [/maogx.win/]tls://1.12.12.12 https://doh.360.cn
 [/maoha.com/]tls://1.12.12.12 https://doh.360.cn
-[/maohongdz.com/]tls://1.12.12.12 https://doh.360.cn
 [/maojiaoque.com/]tls://1.12.12.12 https://doh.360.cn
 [/maojiuxs.com/]tls://1.12.12.12 https://doh.360.cn
 [/maokangbio.com/]tls://1.12.12.12 https://doh.360.cn
@@ -64319,7 +64178,6 @@ https://doh.18bit.cn/dns-query
 [/mchweb.net/]tls://1.12.12.12 https://doh.360.cn
 [/mcidc.net/]tls://1.12.12.12 https://doh.360.cn
 [/mcit.tech/]tls://1.12.12.12 https://doh.360.cn
-[/mcjs.cc/]tls://1.12.12.12 https://doh.360.cn
 [/mcloudvr.com/]tls://1.12.12.12 https://doh.360.cn
 [/mcmap.cc/]tls://1.12.12.12 https://doh.360.cn
 [/mcmaster-asia.com/]tls://1.12.12.12 https://doh.360.cn
@@ -65045,7 +64903,6 @@ https://doh.18bit.cn/dns-query
 [/mgogo.com/]tls://1.12.12.12 https://doh.360.cn
 [/mgongkong.com/]tls://1.12.12.12 https://doh.360.cn
 [/mgplay.com.tw/]tls://1.12.12.12 https://doh.360.cn
-[/mgs123.com/]tls://1.12.12.12 https://doh.360.cn
 [/mgsdk.com/]tls://1.12.12.12 https://doh.360.cn
 [/mgse.info/]tls://1.12.12.12 https://doh.360.cn
 [/mgskfjfod25.com/]tls://1.12.12.12 https://doh.360.cn
@@ -65082,7 +64939,6 @@ https://doh.18bit.cn/dns-query
 [/mhinele.com/]tls://1.12.12.12 https://doh.360.cn
 [/mhito.net/]tls://1.12.12.12 https://doh.360.cn
 [/mhkami.com/]tls://1.12.12.12 https://doh.360.cn
-[/mhkcomment.com/]tls://1.12.12.12 https://doh.360.cn
 [/mhome.com/]tls://1.12.12.12 https://doh.360.cn
 [/mhotels.design/]tls://1.12.12.12 https://doh.360.cn
 [/mhpdf.com/]tls://1.12.12.12 https://doh.360.cn
@@ -65616,7 +65472,6 @@ https://doh.18bit.cn/dns-query
 [/minjichem.com/]tls://1.12.12.12 https://doh.360.cn
 [/minkave.com/]tls://1.12.12.12 https://doh.360.cn
 [/minking.cc/]tls://1.12.12.12 https://doh.360.cn
-[/minleai.com/]tls://1.12.12.12 https://doh.360.cn
 [/minli.com/]tls://1.12.12.12 https://doh.360.cn
 [/minmetals.com/]tls://1.12.12.12 https://doh.360.cn
 [/minor-tech.com/]tls://1.12.12.12 https://doh.360.cn
@@ -66890,7 +66745,6 @@ https://doh.18bit.cn/dns-query
 [/mwstore.com/]tls://1.12.12.12 https://doh.360.cn
 [/mwtg.vip/]tls://1.12.12.12 https://doh.360.cn
 [/mww.so/]tls://1.12.12.12 https://doh.360.cn
-[/mwyzhcdn.com/]tls://1.12.12.12 https://doh.360.cn
 [/mwzhtc.com/]tls://1.12.12.12 https://doh.360.cn
 [/mx-china.net/]tls://1.12.12.12 https://doh.360.cn
 [/mx-fm.com/]tls://1.12.12.12 https://doh.360.cn
@@ -67210,7 +67064,6 @@ https://doh.18bit.cn/dns-query
 [/myqcloud.com/]tls://1.12.12.12 https://doh.360.cn
 [/myqcloud.net/]tls://1.12.12.12 https://doh.360.cn
 [/myqee.com/]tls://1.12.12.12 https://doh.360.cn
-[/myqqdd.com/]tls://1.12.12.12 https://doh.360.cn
 [/myqqjd.com/]tls://1.12.12.12 https://doh.360.cn
 [/myr9.com/]tls://1.12.12.12 https://doh.360.cn
 [/myra2.com/]tls://1.12.12.12 https://doh.360.cn
@@ -68033,7 +67886,6 @@ https://doh.18bit.cn/dns-query
 [/netbooo.com/]tls://1.12.12.12 https://doh.360.cn
 [/netchina100.com/]tls://1.12.12.12 https://doh.360.cn
 [/netcoc.com/]tls://1.12.12.12 https://doh.360.cn
-[/netcolc.cc/]tls://1.12.12.12 https://doh.360.cn
 [/netconst.com/]tls://1.12.12.12 https://doh.360.cn
 [/netcoretec.com/]tls://1.12.12.12 https://doh.360.cn
 [/netcute.com/]tls://1.12.12.12 https://doh.360.cn
@@ -68585,7 +68437,6 @@ https://doh.18bit.cn/dns-query
 [/niupu.com/]tls://1.12.12.12 https://doh.360.cn
 [/niuqia.com/]tls://1.12.12.12 https://doh.360.cn
 [/niurenqushi.com/]tls://1.12.12.12 https://doh.360.cn
-[/niurosoft.com/]tls://1.12.12.12 https://doh.360.cn
 [/niuschools.com/]tls://1.12.12.12 https://doh.360.cn
 [/niushe.com/]tls://1.12.12.12 https://doh.360.cn
 [/niushield.online/]tls://1.12.12.12 https://doh.360.cn
@@ -69201,7 +69052,6 @@ https://doh.18bit.cn/dns-query
 [/nn2yy.com/]tls://1.12.12.12 https://doh.360.cn
 [/nn3yy.com/]tls://1.12.12.12 https://doh.360.cn
 [/nn4yy.com/]tls://1.12.12.12 https://doh.360.cn
-[/nn4z.com/]tls://1.12.12.12 https://doh.360.cn
 [/nn5itt.com/]tls://1.12.12.12 https://doh.360.cn
 [/nn5yy.com/]tls://1.12.12.12 https://doh.360.cn
 [/nn6yy.com/]tls://1.12.12.12 https://doh.360.cn
@@ -69460,7 +69310,6 @@ https://doh.18bit.cn/dns-query
 [/nnxcx.com/]tls://1.12.12.12 https://doh.360.cn
 [/nnxczxjt.com/]tls://1.12.12.12 https://doh.360.cn
 [/nnxdj.com/]tls://1.12.12.12 https://doh.360.cn
-[/nnxiehehospital.com/]tls://1.12.12.12 https://doh.360.cn
 [/nnxinxiang.com/]tls://1.12.12.12 https://doh.360.cn
 [/nnxiyun.com/]tls://1.12.12.12 https://doh.360.cn
 [/nnxjtf.com/]tls://1.12.12.12 https://doh.360.cn
@@ -69787,6 +69636,7 @@ https://doh.18bit.cn/dns-query
 [/nskwj.com/]tls://1.12.12.12 https://doh.360.cn
 [/nsm-electrical.com/]tls://1.12.12.12 https://doh.360.cn
 [/nsmodel.com/]tls://1.12.12.12 https://doh.360.cn
+[/nsns.in/]tls://1.12.12.12 https://doh.360.cn
 [/nsoad.com/]tls://1.12.12.12 https://doh.360.cn
 [/nsqtlcdn.cc/]tls://1.12.12.12 https://doh.360.cn
 [/nsqtlcdn.info/]tls://1.12.12.12 https://doh.360.cn
@@ -69874,7 +69724,6 @@ https://doh.18bit.cn/dns-query
 [/ntsanxin.com/]tls://1.12.12.12 https://doh.360.cn
 [/ntsgx.com/]tls://1.12.12.12 https://doh.360.cn
 [/ntsuye.com/]tls://1.12.12.12 https://doh.360.cn
-[/nttcname.com/]tls://1.12.12.12 https://doh.360.cn
 [/ntwikis.com/]tls://1.12.12.12 https://doh.360.cn
 [/ntwzy.com/]tls://1.12.12.12 https://doh.360.cn
 [/ntxx.net/]tls://1.12.12.12 https://doh.360.cn
@@ -69988,6 +69837,7 @@ https://doh.18bit.cn/dns-query
 [/nvshuyun.com/]tls://1.12.12.12 https://doh.360.cn
 [/nvsip.com/]tls://1.12.12.12 https://doh.360.cn
 [/nvwalive.com/]tls://1.12.12.12 https://doh.360.cn
+[/nvwnsy.com/]tls://1.12.12.12 https://doh.360.cn
 [/nvwu.com/]tls://1.12.12.12 https://doh.360.cn
 [/nvzhanshen.com/]tls://1.12.12.12 https://doh.360.cn
 [/nvziwu.com/]tls://1.12.12.12 https://doh.360.cn
@@ -70201,6 +70051,7 @@ https://doh.18bit.cn/dns-query
 [/oceandatas.com/]tls://1.12.12.12 https://doh.360.cn
 [/oceando.cloud/]tls://1.12.12.12 https://doh.360.cn
 [/oceanengine.com/]tls://1.12.12.12 https://doh.360.cn
+[/oceanhomeplus.com/]tls://1.12.12.12 https://doh.360.cn
 [/oceanhood.com/]tls://1.12.12.12 https://doh.360.cn
 [/oceanol.com/]tls://1.12.12.12 https://doh.360.cn
 [/oceanorama.com/]tls://1.12.12.12 https://doh.360.cn
@@ -70564,7 +70415,6 @@ https://doh.18bit.cn/dns-query
 [/oneiwff.com/]tls://1.12.12.12 https://doh.360.cn
 [/onekey.cc/]tls://1.12.12.12 https://doh.360.cn
 [/onekeyghost.com/]tls://1.12.12.12 https://doh.360.cn
-[/onekeyrom.com/]tls://1.12.12.12 https://doh.360.cn
 [/oneleafchina.com/]tls://1.12.12.12 https://doh.360.cn
 [/onelic.work/]tls://1.12.12.12 https://doh.360.cn
 [/onelife-love.com/]tls://1.12.12.12 https://doh.360.cn
@@ -70595,7 +70445,6 @@ https://doh.18bit.cn/dns-query
 [/onetop.net/]tls://1.12.12.12 https://doh.360.cn
 [/onetts.com/]tls://1.12.12.12 https://doh.360.cn
 [/onev.cat/]tls://1.12.12.12 https://doh.360.cn
-[/onevcat.com/]tls://1.12.12.12 https://doh.360.cn
 [/oneway.mobi/]tls://1.12.12.12 https://doh.360.cn
 [/onewedesign.com/]tls://1.12.12.12 https://doh.360.cn
 [/onewo.com/]tls://1.12.12.12 https://doh.360.cn
@@ -70783,7 +70632,6 @@ https://doh.18bit.cn/dns-query
 [/opensplendid.com/]tls://1.12.12.12 https://doh.360.cn
 [/openssw.com/]tls://1.12.12.12 https://doh.360.cn
 [/opentrust.net/]tls://1.12.12.12 https://doh.360.cn
-[/openuc.com/]tls://1.12.12.12 https://doh.360.cn
 [/openvela.com/]tls://1.12.12.12 https://doh.360.cn
 [/openviking.net/]tls://1.12.12.12 https://doh.360.cn
 [/openwbs.com/]tls://1.12.12.12 https://doh.360.cn
@@ -71235,7 +71083,6 @@ https://doh.18bit.cn/dns-query
 [/oym56lm.com/]tls://1.12.12.12 https://doh.360.cn
 [/oyn01.cc/]tls://1.12.12.12 https://doh.360.cn
 [/oyohyee.com/]tls://1.12.12.12 https://doh.360.cn
-[/oyonyou.com/]tls://1.12.12.12 https://doh.360.cn
 [/oyoozo.com/]tls://1.12.12.12 https://doh.360.cn
 [/oyospider.com/]tls://1.12.12.12 https://doh.360.cn
 [/oyoumo.com/]tls://1.12.12.12 https://doh.360.cn
@@ -71249,7 +71096,6 @@ https://doh.18bit.cn/dns-query
 [/ozoninfo.com/]tls://1.12.12.12 https://doh.360.cn
 [/ozouckzr.com/]tls://1.12.12.12 https://doh.360.cn
 [/ozxw.com/]tls://1.12.12.12 https://doh.360.cn
-[/ozzair.org/]tls://1.12.12.12 https://doh.360.cn
 [/ozzyad.com/]tls://1.12.12.12 https://doh.360.cn
 [/p-an.com/]tls://1.12.12.12 https://doh.360.cn
 [/p-dragon.com/]tls://1.12.12.12 https://doh.360.cn
@@ -71973,7 +71819,6 @@ https://doh.18bit.cn/dns-query
 [/perfectdiary.com/]tls://1.12.12.12 https://doh.360.cn
 [/perfecttradinghk.com/]tls://1.12.12.12 https://doh.360.cn
 [/perfectwatchen.com/]tls://1.12.12.12 https://doh.360.cn
-[/perfertw.com/]tls://1.12.12.12 https://doh.360.cn
 [/perfma.net/]tls://1.12.12.12 https://doh.360.cn
 [/peropero.net/]tls://1.12.12.12 https://doh.360.cn
 [/peroperogames.com/]tls://1.12.12.12 https://doh.360.cn
@@ -72025,7 +71870,6 @@ https://doh.18bit.cn/dns-query
 [/pft12301.cc/]tls://1.12.12.12 https://doh.360.cn
 [/pftianshanno.com/]tls://1.12.12.12 https://doh.360.cn
 [/pfwx.com/]tls://1.12.12.12 https://doh.360.cn
-[/pfzhiliao.com/]tls://1.12.12.12 https://doh.360.cn
 [/pg-leak.com/]tls://1.12.12.12 https://doh.360.cn
 [/pg114.net/]tls://1.12.12.12 https://doh.360.cn
 [/pg245348.cc/]tls://1.12.12.12 https://doh.360.cn
@@ -73166,7 +73010,6 @@ https://doh.18bit.cn/dns-query
 [/psdee.com/]tls://1.12.12.12 https://doh.360.cn
 [/psdiv.com/]tls://1.12.12.12 https://doh.360.cn
 [/pse-meti.com/]tls://1.12.12.12 https://doh.360.cn
-[/psfjz.com/]tls://1.12.12.12 https://doh.360.cn
 [/psjdhhnkjahbn.cfd/]tls://1.12.12.12 https://doh.360.cn
 [/psjia.com/]tls://1.12.12.12 https://doh.360.cn
 [/psjxty.com/]tls://1.12.12.12 https://doh.360.cn
@@ -73190,7 +73033,6 @@ https://doh.18bit.cn/dns-query
 [/psznh.com/]tls://1.12.12.12 https://doh.360.cn
 [/pszwatch.com/]tls://1.12.12.12 https://doh.360.cn
 [/pszx.com/]tls://1.12.12.12 https://doh.360.cn
-[/pszxw.net/]tls://1.12.12.12 https://doh.360.cn
 [/pt-link.com/]tls://1.12.12.12 https://doh.360.cn
 [/pt597.com/]tls://1.12.12.12 https://doh.360.cn
 [/pt80.net/]tls://1.12.12.12 https://doh.360.cn
@@ -73271,7 +73113,6 @@ https://doh.18bit.cn/dns-query
 [/pubyun.com/]tls://1.12.12.12 https://doh.360.cn
 [/pubyun.net/]tls://1.12.12.12 https://doh.360.cn
 [/pubyun.org/]tls://1.12.12.12 https://doh.360.cn
-[/pucijiankang.com/]tls://1.12.12.12 https://doh.360.cn
 [/pudetouzi.com/]tls://1.12.12.12 https://doh.360.cn
 [/pudie.net/]tls://1.12.12.12 https://doh.360.cn
 [/pudijt.com/]tls://1.12.12.12 https://doh.360.cn
@@ -73405,7 +73246,6 @@ https://doh.18bit.cn/dns-query
 [/pwdding.icu/]tls://1.12.12.12 https://doh.360.cn
 [/pwithe.com/]tls://1.12.12.12 https://doh.360.cn
 [/pwjt.com/]tls://1.12.12.12 https://doh.360.cn
-[/pwkyyb.com/]tls://1.12.12.12 https://doh.360.cn
 [/pwmat.com/]tls://1.12.12.12 https://doh.360.cn
 [/pwmqr.com/]tls://1.12.12.12 https://doh.360.cn
 [/pwns.fun/]tls://1.12.12.12 https://doh.360.cn
@@ -73552,13 +73392,13 @@ https://doh.18bit.cn/dns-query
 [/q6haqi.com/]tls://1.12.12.12 https://doh.360.cn
 [/q6u.com/]tls://1.12.12.12 https://doh.360.cn
 [/q77777777.com/]tls://1.12.12.12 https://doh.360.cn
-[/q83v5haaz.com/]tls://1.12.12.12 https://doh.360.cn
 [/q88b.net/]tls://1.12.12.12 https://doh.360.cn
 [/q88c.net/]tls://1.12.12.12 https://doh.360.cn
 [/q96bq8m39p.world/]tls://1.12.12.12 https://doh.360.cn
 [/qa114.com/]tls://1.12.12.12 https://doh.360.cn
 [/qacctv.com/]tls://1.12.12.12 https://doh.360.cn
 [/qacn.net/]tls://1.12.12.12 https://doh.360.cn
+[/qagdxs.com/]tls://1.12.12.12 https://doh.360.cn
 [/qakkan.vip/]tls://1.12.12.12 https://doh.360.cn
 [/qalex.com/]tls://1.12.12.12 https://doh.360.cn
 [/qamemc.com/]tls://1.12.12.12 https://doh.360.cn
@@ -74026,7 +73866,6 @@ https://doh.18bit.cn/dns-query
 [/qianbaohr.com/]tls://1.12.12.12 https://doh.360.cn
 [/qianbi360.com/]tls://1.12.12.12 https://doh.360.cn
 [/qianbianma.com/]tls://1.12.12.12 https://doh.360.cn
-[/qianbianxiazai.com/]tls://1.12.12.12 https://doh.360.cn
 [/qiancangwms.com/]tls://1.12.12.12 https://doh.360.cn
 [/qiancha.cc/]tls://1.12.12.12 https://doh.360.cn
 [/qianchengriben.com/]tls://1.12.12.12 https://doh.360.cn
@@ -74527,7 +74366,6 @@ https://doh.18bit.cn/dns-query
 [/qingmuit.com/]tls://1.12.12.12 https://doh.360.cn
 [/qingmutec.com/]tls://1.12.12.12 https://doh.360.cn
 [/qingmuxinli.com/]tls://1.12.12.12 https://doh.360.cn
-[/qingnianlvxing.com/]tls://1.12.12.12 https://doh.360.cn
 [/qingniantuzhai.com/]tls://1.12.12.12 https://doh.360.cn
 [/qingnianwang.com/]tls://1.12.12.12 https://doh.360.cn
 [/qingning88.com/]tls://1.12.12.12 https://doh.360.cn
@@ -74941,6 +74779,7 @@ https://doh.18bit.cn/dns-query
 [/qlxiaozhan.com/]tls://1.12.12.12 https://doh.360.cn
 [/qlxyedu.com/]tls://1.12.12.12 https://doh.360.cn
 [/qlydw.com/]tls://1.12.12.12 https://doh.360.cn
+[/qlyfhdns.com/]tls://1.12.12.12 https://doh.360.cn
 [/qlyjt.com/]tls://1.12.12.12 https://doh.360.cn
 [/qlyygl.com/]tls://1.12.12.12 https://doh.360.cn
 [/qlyyqd.com/]tls://1.12.12.12 https://doh.360.cn
@@ -75953,7 +75792,6 @@ https://doh.18bit.cn/dns-query
 [/qxrcw.com/]tls://1.12.12.12 https://doh.360.cn
 [/qxsdq.com/]tls://1.12.12.12 https://doh.360.cn
 [/qxsfjq.com/]tls://1.12.12.12 https://doh.360.cn
-[/qxshucai.com/]tls://1.12.12.12 https://doh.360.cn
 [/qxswk.com/]tls://1.12.12.12 https://doh.360.cn
 [/qxteacher.com/]tls://1.12.12.12 https://doh.360.cn
 [/qxtour.com/]tls://1.12.12.12 https://doh.360.cn
@@ -76126,7 +75964,6 @@ https://doh.18bit.cn/dns-query
 [/qzqcw.com/]tls://1.12.12.12 https://doh.360.cn
 [/qzqi.com/]tls://1.12.12.12 https://doh.360.cn
 [/qzqn8.com/]tls://1.12.12.12 https://doh.360.cn
-[/qzqstudio.com/]tls://1.12.12.12 https://doh.360.cn
 [/qzqxd.com/]tls://1.12.12.12 https://doh.360.cn
 [/qzqxw.com/]tls://1.12.12.12 https://doh.360.cn
 [/qzrbx.com/]tls://1.12.12.12 https://doh.360.cn
@@ -76140,7 +75977,6 @@ https://doh.18bit.cn/dns-query
 [/qzshangwu.com/]tls://1.12.12.12 https://doh.360.cn
 [/qzshly.com/]tls://1.12.12.12 https://doh.360.cn
 [/qzsmxx.com/]tls://1.12.12.12 https://doh.360.cn
-[/qzsqsnhdzx.com/]tls://1.12.12.12 https://doh.360.cn
 [/qzssdy.com/]tls://1.12.12.12 https://doh.360.cn
 [/qzsx168.com/]tls://1.12.12.12 https://doh.360.cn
 [/qzsystem.com/]tls://1.12.12.12 https://doh.360.cn
@@ -77368,7 +77204,6 @@ https://doh.18bit.cn/dns-query
 [/rqyz.com/]tls://1.12.12.12 https://doh.360.cn
 [/rr-sc.com/]tls://1.12.12.12 https://doh.360.cn
 [/rr365.com/]tls://1.12.12.12 https://doh.360.cn
-[/rrajz.com/]tls://1.12.12.12 https://doh.360.cn
 [/rrb365.com/]tls://1.12.12.12 https://doh.360.cn
 [/rrbay.com/]tls://1.12.12.12 https://doh.360.cn
 [/rrbus.com/]tls://1.12.12.12 https://doh.360.cn
@@ -78271,7 +78106,6 @@ https://doh.18bit.cn/dns-query
 [/saolife.com/]tls://1.12.12.12 https://doh.360.cn
 [/saomadc.com/]tls://1.12.12.12 https://doh.360.cn
 [/saomadiancan.com/]tls://1.12.12.12 https://doh.360.cn
-[/saoniuhuo.com/]tls://1.12.12.12 https://doh.360.cn
 [/saoshu.org/]tls://1.12.12.12 https://doh.360.cn
 [/saoso.com/]tls://1.12.12.12 https://doh.360.cn
 [/saowen.net/]tls://1.12.12.12 https://doh.360.cn
@@ -78324,8 +78158,6 @@ https://doh.18bit.cn/dns-query
 [/sbjxyq.com/]tls://1.12.12.12 https://doh.360.cn
 [/sbk-h5.com/]tls://1.12.12.12 https://doh.360.cn
 [/sbkh5.com/]tls://1.12.12.12 https://doh.360.cn
-[/sblseceorf.com/]tls://1.12.12.12 https://doh.360.cn
-[/sblsechuorb3.net/]tls://1.12.12.12 https://doh.360.cn
 [/sbmscs.com/]tls://1.12.12.12 https://doh.360.cn
 [/sbnkca.com/]tls://1.12.12.12 https://doh.360.cn
 [/sbnkjl.com/]tls://1.12.12.12 https://doh.360.cn
@@ -79670,7 +79502,6 @@ https://doh.18bit.cn/dns-query
 [/sevnday.com/]tls://1.12.12.12 https://doh.360.cn
 [/sevnz.com/]tls://1.12.12.12 https://doh.360.cn
 [/sewise.com/]tls://1.12.12.12 https://doh.360.cn
-[/sex2ribenwuma.wiki/]tls://1.12.12.12 https://doh.360.cn
 [/sex2yingtaoshipin.wiki/]tls://1.12.12.12 https://doh.360.cn
 [/sexytea2013.com/]tls://1.12.12.12 https://doh.360.cn
 [/seyoo.net/]tls://1.12.12.12 https://doh.360.cn
@@ -79714,7 +79545,6 @@ https://doh.18bit.cn/dns-query
 [/sfdy13168.com/]tls://1.12.12.12 https://doh.360.cn
 [/sfdzh.com/]tls://1.12.12.12 https://doh.360.cn
 [/sfecr.com/]tls://1.12.12.12 https://doh.360.cn
-[/sffdj.com/]tls://1.12.12.12 https://doh.360.cn
 [/sfgj.org/]tls://1.12.12.12 https://doh.360.cn
 [/sfgy.org/]tls://1.12.12.12 https://doh.360.cn
 [/sfhaa.com/]tls://1.12.12.12 https://doh.360.cn
@@ -80180,7 +80010,6 @@ https://doh.18bit.cn/dns-query
 [/shangshuyixue.com/]tls://1.12.12.12 https://doh.360.cn
 [/shangtaiw.com/]tls://1.12.12.12 https://doh.360.cn
 [/shangtao.net/]tls://1.12.12.12 https://doh.360.cn
-[/shangtao360.com/]tls://1.12.12.12 https://doh.360.cn
 [/shangtianhui.com/]tls://1.12.12.12 https://doh.360.cn
 [/shangtongda.com/]tls://1.12.12.12 https://doh.360.cn
 [/shangtuf.com/]tls://1.12.12.12 https://doh.360.cn
@@ -80559,7 +80388,6 @@ https://doh.18bit.cn/dns-query
 [/shenghuaxi.com/]tls://1.12.12.12 https://doh.360.cn
 [/shenghui56.com/]tls://1.12.12.12 https://doh.360.cn
 [/shenghuigd.com/]tls://1.12.12.12 https://doh.360.cn
-[/shenghuo365.com/]tls://1.12.12.12 https://doh.360.cn
 [/shenghuojia.com/]tls://1.12.12.12 https://doh.360.cn
 [/shenghuorili.com/]tls://1.12.12.12 https://doh.360.cn
 [/shenghuowo.com/]tls://1.12.12.12 https://doh.360.cn
@@ -81009,6 +80837,7 @@ https://doh.18bit.cn/dns-query
 [/shinkinopsae.com/]tls://1.12.12.12 https://doh.360.cn
 [/shinnytech.com/]tls://1.12.12.12 https://doh.360.cn
 [/shinva.net/]tls://1.12.12.12 https://doh.360.cn
+[/shinvasurgical.com/]tls://1.12.12.12 https://doh.360.cn
 [/shinycg.com/]tls://1.12.12.12 https://doh.360.cn
 [/shinye-ortho.com/]tls://1.12.12.12 https://doh.360.cn
 [/shinyway.org/]tls://1.12.12.12 https://doh.360.cn
@@ -81275,7 +81104,6 @@ https://doh.18bit.cn/dns-query
 [/shopex123.com/]tls://1.12.12.12 https://doh.360.cn
 [/shopimgs.com/]tls://1.12.12.12 https://doh.360.cn
 [/shopin.net/]tls://1.12.12.12 https://doh.360.cn
-[/shopjyh.com/]tls://1.12.12.12 https://doh.360.cn
 [/shoplazza.com/]tls://1.12.12.12 https://doh.360.cn
 [/shopmaxmb.com/]tls://1.12.12.12 https://doh.360.cn
 [/shopnc.net/]tls://1.12.12.12 https://doh.360.cn
@@ -81340,7 +81168,6 @@ https://doh.18bit.cn/dns-query
 [/shoujibao.net/]tls://1.12.12.12 https://doh.360.cn
 [/shoujiduoduo.com/]tls://1.12.12.12 https://doh.360.cn
 [/shoujihuifu.com/]tls://1.12.12.12 https://doh.360.cn
-[/shoujimi.com/]tls://1.12.12.12 https://doh.360.cn
 [/shoujitouping.com/]tls://1.12.12.12 https://doh.360.cn
 [/shoujiwan.com/]tls://1.12.12.12 https://doh.360.cn
 [/shoujixs.net/]tls://1.12.12.12 https://doh.360.cn
@@ -81651,7 +81478,6 @@ https://doh.18bit.cn/dns-query
 [/shuibengxinghao.com/]tls://1.12.12.12 https://doh.360.cn
 [/shuicao.cc/]tls://1.12.12.12 https://doh.360.cn
 [/shuichan.cc/]tls://1.12.12.12 https://doh.360.cn
-[/shuichan51.com/]tls://1.12.12.12 https://doh.360.cn
 [/shuichuyu.com/]tls://1.12.12.12 https://doh.360.cn
 [/shuidichou.com/]tls://1.12.12.12 https://doh.360.cn
 [/shuididabingchou.net/]tls://1.12.12.12 https://doh.360.cn
@@ -82154,7 +81980,6 @@ https://doh.18bit.cn/dns-query
 [/sikuwu.com/]tls://1.12.12.12 https://doh.360.cn
 [/sikuyun.net/]tls://1.12.12.12 https://doh.360.cn
 [/silanggame.com/]tls://1.12.12.12 https://doh.360.cn
-[/silasbuchanan.shop/]tls://1.12.12.12 https://doh.360.cn
 [/sileadinc.com/]tls://1.12.12.12 https://doh.360.cn
 [/silenceper.com/]tls://1.12.12.12 https://doh.360.cn
 [/silexmicro.com/]tls://1.12.12.12 https://doh.360.cn
@@ -82516,7 +82341,6 @@ https://doh.18bit.cn/dns-query
 [/siqiquan.org/]tls://1.12.12.12 https://doh.360.cn
 [/siqxmg4256.vip/]tls://1.12.12.12 https://doh.360.cn
 [/sir3.com/]tls://1.12.12.12 https://doh.360.cn
-[/sir66.com/]tls://1.12.12.12 https://doh.360.cn
 [/siranbio.com/]tls://1.12.12.12 https://doh.360.cn
 [/sireda.com/]tls://1.12.12.12 https://doh.360.cn
 [/sirenyouxiang.com/]tls://1.12.12.12 https://doh.360.cn
@@ -82528,7 +82352,6 @@ https://doh.18bit.cn/dns-query
 [/sisder.com/]tls://1.12.12.12 https://doh.360.cn
 [/sisen.com/]tls://1.12.12.12 https://doh.360.cn
 [/sisensing.com/]tls://1.12.12.12 https://doh.360.cn
-[/sishui123.com/]tls://1.12.12.12 https://doh.360.cn
 [/sishuojixie.com/]tls://1.12.12.12 https://doh.360.cn
 [/sishuok.com/]tls://1.12.12.12 https://doh.360.cn
 [/sishuxuefu.com/]tls://1.12.12.12 https://doh.360.cn
@@ -83694,7 +83517,6 @@ https://doh.18bit.cn/dns-query
 [/souqian.com/]tls://1.12.12.12 https://doh.360.cn
 [/souqiantu.com/]tls://1.12.12.12 https://doh.360.cn
 [/sour-lemon.com/]tls://1.12.12.12 https://doh.360.cn
-[/source.tutorabc.com/]tls://1.12.12.12 https://doh.360.cn
 [/source3g.com/]tls://1.12.12.12 https://doh.360.cn
 [/sourcecodebeat.com/]tls://1.12.12.12 https://doh.360.cn
 [/sourcecodecap.com/]tls://1.12.12.12 https://doh.360.cn
@@ -84046,7 +83868,6 @@ https://doh.18bit.cn/dns-query
 [/ssaya.win/]tls://1.12.12.12 https://doh.360.cn
 [/ssbbww.com/]tls://1.12.12.12 https://doh.360.cn
 [/ssbgzzs.com/]tls://1.12.12.12 https://doh.360.cn
-[/ssbjf.com/]tls://1.12.12.12 https://doh.360.cn
 [/ssbjsy.com/]tls://1.12.12.12 https://doh.360.cn
 [/ssbx.me/]tls://1.12.12.12 https://doh.360.cn
 [/ssby.cc/]tls://1.12.12.12 https://doh.360.cn
@@ -84450,7 +84271,6 @@ https://doh.18bit.cn/dns-query
 [/sttry.com/]tls://1.12.12.12 https://doh.360.cn
 [/stu-lab.com/]tls://1.12.12.12 https://doh.360.cn
 [/stu-works.com/]tls://1.12.12.12 https://doh.360.cn
-[/stu51.com/]tls://1.12.12.12 https://doh.360.cn
 [/stubbornhuang.com/]tls://1.12.12.12 https://doh.360.cn
 [/studa.net/]tls://1.12.12.12 https://doh.360.cn
 [/studentboss.com/]tls://1.12.12.12 https://doh.360.cn
@@ -85159,7 +84979,6 @@ https://doh.18bit.cn/dns-query
 [/swifthumb.com/]tls://1.12.12.12 https://doh.360.cn
 [/swiftjava.com/]tls://1.12.12.12 https://doh.360.cn
 [/swiftlet.net/]tls://1.12.12.12 https://doh.360.cn
-[/swijoy.com/]tls://1.12.12.12 https://doh.360.cn
 [/swip.group/]tls://1.12.12.12 https://doh.360.cn
 [/swirebev.com/]tls://1.12.12.12 https://doh.360.cn
 [/swirecocacola.com/]tls://1.12.12.12 https://doh.360.cn
@@ -85218,7 +85037,6 @@ https://doh.18bit.cn/dns-query
 [/sxalu.com/]tls://1.12.12.12 https://doh.360.cn
 [/sxand.com/]tls://1.12.12.12 https://doh.360.cn
 [/sxase.com/]tls://1.12.12.12 https://doh.360.cn
-[/sxasuykzx2sq.icu/]tls://1.12.12.12 https://doh.360.cn
 [/sxatcm.com/]tls://1.12.12.12 https://doh.360.cn
 [/sxbada.com/]tls://1.12.12.12 https://doh.360.cn
 [/sxbang.net/]tls://1.12.12.12 https://doh.360.cn
@@ -85273,7 +85091,6 @@ https://doh.18bit.cn/dns-query
 [/sxhhwl.com/]tls://1.12.12.12 https://doh.360.cn
 [/sxhhyy.com/]tls://1.12.12.12 https://doh.360.cn
 [/sxhimalayanqd.com/]tls://1.12.12.12 https://doh.360.cn
-[/sxhiway.com/]tls://1.12.12.12 https://doh.360.cn
 [/sxhjrc.com/]tls://1.12.12.12 https://doh.360.cn
 [/sxhkxy.com/]tls://1.12.12.12 https://doh.360.cn
 [/sxhlcc.com/]tls://1.12.12.12 https://doh.360.cn
@@ -85327,6 +85144,7 @@ https://doh.18bit.cn/dns-query
 [/sxmty.com/]tls://1.12.12.12 https://doh.360.cn
 [/sxmxwh.com/]tls://1.12.12.12 https://doh.360.cn
 [/sxmyh.com/]tls://1.12.12.12 https://doh.360.cn
+[/sxnb66.xyz/]tls://1.12.12.12 https://doh.360.cn
 [/sxncb.com/]tls://1.12.12.12 https://doh.360.cn
 [/sxnxs.com/]tls://1.12.12.12 https://doh.360.cn
 [/sxnxxny.com/]tls://1.12.12.12 https://doh.360.cn
@@ -85650,7 +85468,6 @@ https://doh.18bit.cn/dns-query
 [/syyyd.com/]tls://1.12.12.12 https://doh.360.cn
 [/syyyj.com/]tls://1.12.12.12 https://doh.360.cn
 [/syyyking.com/]tls://1.12.12.12 https://doh.360.cn
-[/syyzhpc.com/]tls://1.12.12.12 https://doh.360.cn
 [/syzdhyb.com/]tls://1.12.12.12 https://doh.360.cn
 [/syzjjt.com/]tls://1.12.12.12 https://doh.360.cn
 [/syzlzz.com/]tls://1.12.12.12 https://doh.360.cn
@@ -87123,7 +86940,6 @@ https://doh.18bit.cn/dns-query
 [/tbt168.com/]tls://1.12.12.12 https://doh.360.cn
 [/tbtopc.com/]tls://1.12.12.12 https://doh.360.cn
 [/tburl.in/]tls://1.12.12.12 https://doh.360.cn
-[/tbuser.com/]tls://1.12.12.12 https://doh.360.cn
 [/tbxsw.com/]tls://1.12.12.12 https://doh.360.cn
 [/tbyfsoft.com/]tls://1.12.12.12 https://doh.360.cn
 [/tc-21.com/]tls://1.12.12.12 https://doh.360.cn
@@ -87174,7 +86990,6 @@ https://doh.18bit.cn/dns-query
 [/tcfhty.com/]tls://1.12.12.12 https://doh.360.cn
 [/tcfmglobal.com/]tls://1.12.12.12 https://doh.360.cn
 [/tcgcardgame.com/]tls://1.12.12.12 https://doh.360.cn
-[/tcgdxyb.xyz/]tls://1.12.12.12 https://doh.360.cn
 [/tcggkj.com/]tls://1.12.12.12 https://doh.360.cn
 [/tcgke.com/]tls://1.12.12.12 https://doh.360.cn
 [/tcgsw.com/]tls://1.12.12.12 https://doh.360.cn
@@ -88169,7 +87984,6 @@ https://doh.18bit.cn/dns-query
 [/thjunshi.com/]tls://1.12.12.12 https://doh.360.cn
 [/thkconn.com/]tls://1.12.12.12 https://doh.360.cn
 [/thkill.com/]tls://1.12.12.12 https://doh.360.cn
-[/thm3u8.com/]tls://1.12.12.12 https://doh.360.cn
 [/thmall.com/]tls://1.12.12.12 https://doh.360.cn
 [/thmins.com/]tls://1.12.12.12 https://doh.360.cn
 [/thmnet.com/]tls://1.12.12.12 https://doh.360.cn
@@ -88380,7 +88194,6 @@ https://doh.18bit.cn/dns-query
 [/tianruoyun.com/]tls://1.12.12.12 https://doh.360.cn
 [/tiansdl.com/]tls://1.12.12.12 https://doh.360.cn
 [/tiansenjituan.com/]tls://1.12.12.12 https://doh.360.cn
-[/tianshanxt.com/]tls://1.12.12.12 https://doh.360.cn
 [/tianshengdiyi.com/]tls://1.12.12.12 https://doh.360.cn
 [/tianshenyule.com/]tls://1.12.12.12 https://doh.360.cn
 [/tianshiyiyuan.com/]tls://1.12.12.12 https://doh.360.cn
@@ -88859,7 +88672,6 @@ https://doh.18bit.cn/dns-query
 [/tjsptech.com/]tls://1.12.12.12 https://doh.360.cn
 [/tjst.net/]tls://1.12.12.12 https://doh.360.cn
 [/tjstats.com/]tls://1.12.12.12 https://doh.360.cn
-[/tjsylhh.com/]tls://1.12.12.12 https://doh.360.cn
 [/tjtele.com/]tls://1.12.12.12 https://doh.360.cn
 [/tjtjshengtu.com/]tls://1.12.12.12 https://doh.360.cn
 [/tjtongrentang.com/]tls://1.12.12.12 https://doh.360.cn
@@ -89172,7 +88984,6 @@ https://doh.18bit.cn/dns-query
 [/toec.com/]tls://1.12.12.12 https://doh.360.cn
 [/toecsec.com/]tls://1.12.12.12 https://doh.360.cn
 [/toewin.com/]tls://1.12.12.12 https://doh.360.cn
-[/tofeat.com/]tls://1.12.12.12 https://doh.360.cn
 [/tofengmi.com/]tls://1.12.12.12 https://doh.360.cn
 [/tofflon.com/]tls://1.12.12.12 https://doh.360.cn
 [/tofine.com/]tls://1.12.12.12 https://doh.360.cn
@@ -89612,7 +89423,6 @@ https://doh.18bit.cn/dns-query
 [/touxiang8.com/]tls://1.12.12.12 https://doh.360.cn
 [/touxiang88.com/]tls://1.12.12.12 https://doh.360.cn
 [/touying.com/]tls://1.12.12.12 https://doh.360.cn
-[/touzhijia.com/]tls://1.12.12.12 https://doh.360.cn
 [/touzi.com/]tls://1.12.12.12 https://doh.360.cn
 [/touzid.com/]tls://1.12.12.12 https://doh.360.cn
 [/touzime.com/]tls://1.12.12.12 https://doh.360.cn
@@ -89651,7 +89461,6 @@ https://doh.18bit.cn/dns-query
 [/tpe-tencentclb.com/]tls://1.12.12.12 https://doh.360.cn
 [/tpe-tencentclb.net/]tls://1.12.12.12 https://doh.360.cn
 [/tpe-tencentclb.work/]tls://1.12.12.12 https://doh.360.cn
-[/tpfangchan.com/]tls://1.12.12.12 https://doh.360.cn
 [/tphdled.com/]tls://1.12.12.12 https://doh.360.cn
 [/tpimg.xyz/]tls://1.12.12.12 https://doh.360.cn
 [/tpjwww.com/]tls://1.12.12.12 https://doh.360.cn
@@ -89853,7 +89662,6 @@ https://doh.18bit.cn/dns-query
 [/trjcn.com/]tls://1.12.12.12 https://doh.360.cn
 [/trjcn.net/]tls://1.12.12.12 https://doh.360.cn
 [/trjddq.com/]tls://1.12.12.12 https://doh.360.cn
-[/trjho.com/]tls://1.12.12.12 https://doh.360.cn
 [/trkj.com/]tls://1.12.12.12 https://doh.360.cn
 [/trkjbj.com/]tls://1.12.12.12 https://doh.360.cn
 [/trleader.com/]tls://1.12.12.12 https://doh.360.cn
@@ -90241,6 +90049,7 @@ https://doh.18bit.cn/dns-query
 [/tuboshu.com/]tls://1.12.12.12 https://doh.360.cn
 [/tuboshuxinxi.xyz/]tls://1.12.12.12 https://doh.360.cn
 [/tubutu.com/]tls://1.12.12.12 https://doh.360.cn
+[/tucenb.com/]tls://1.12.12.12 https://doh.360.cn
 [/tuchong.com/]tls://1.12.12.12 https://doh.360.cn
 [/tuchong.net/]tls://1.12.12.12 https://doh.360.cn
 [/tuchuangs.com/]tls://1.12.12.12 https://doh.360.cn
@@ -91066,7 +90875,6 @@ https://doh.18bit.cn/dns-query
 [/udcgroup.com/]tls://1.12.12.12 https://doh.360.cn
 [/udcn.com/]tls://1.12.12.12 https://doh.360.cn
 [/uddtrip.com/]tls://1.12.12.12 https://doh.360.cn
-[/udecig.com/]tls://1.12.12.12 https://doh.360.cn
 [/udelivrs.com/]tls://1.12.12.12 https://doh.360.cn
 [/udeskcs.com/]tls://1.12.12.12 https://doh.360.cn
 [/udeskglobal.com/]tls://1.12.12.12 https://doh.360.cn
@@ -91180,7 +90988,6 @@ https://doh.18bit.cn/dns-query
 [/ui63.com/]tls://1.12.12.12 https://doh.360.cn
 [/uibep.com/]tls://1.12.12.12 https://doh.360.cn
 [/uibhealthcare.com/]tls://1.12.12.12 https://doh.360.cn
-[/uibmm.com/]tls://1.12.12.12 https://doh.360.cn
 [/uicats.com/]tls://1.12.12.12 https://doh.360.cn
 [/uicmall.com/]tls://1.12.12.12 https://doh.360.cn
 [/uicom.net/]tls://1.12.12.12 https://doh.360.cn
@@ -91533,7 +91340,6 @@ https://doh.18bit.cn/dns-query
 [/upchinaproduct.com/]tls://1.12.12.12 https://doh.360.cn
 [/upd.kaspersky.com/]tls://1.12.12.12 https://doh.360.cn
 [/update1.cyou/]tls://1.12.12.12 https://doh.360.cn
-[/update2.cyou/]tls://1.12.12.12 https://doh.360.cn
 [/update8.com/]tls://1.12.12.12 https://doh.360.cn
 [/updeals.com/]tls://1.12.12.12 https://doh.360.cn
 [/updf.com/]tls://1.12.12.12 https://doh.360.cn
@@ -91805,7 +91611,6 @@ https://doh.18bit.cn/dns-query
 [/uusoo.net/]tls://1.12.12.12 https://doh.360.cn
 [/uustory.com/]tls://1.12.12.12 https://doh.360.cn
 [/uustv.com/]tls://1.12.12.12 https://doh.360.cn
-[/uutils.com/]tls://1.12.12.12 https://doh.360.cn
 [/uutop.com/]tls://1.12.12.12 https://doh.360.cn
 [/uutrip.net/]tls://1.12.12.12 https://doh.360.cn
 [/uutytp.com/]tls://1.12.12.12 https://doh.360.cn
@@ -91862,7 +91667,6 @@ https://doh.18bit.cn/dns-query
 [/uyanip.com/]tls://1.12.12.12 https://doh.360.cn
 [/uyanke.com/]tls://1.12.12.12 https://doh.360.cn
 [/uycnr.com/]tls://1.12.12.12 https://doh.360.cn
-[/uyesee.com/]tls://1.12.12.12 https://doh.360.cn
 [/uyhjnm.com/]tls://1.12.12.12 https://doh.360.cn
 [/uyiban.com/]tls://1.12.12.12 https://doh.360.cn
 [/uyiqggpa.com/]tls://1.12.12.12 https://doh.360.cn
@@ -91949,7 +91753,6 @@ https://doh.18bit.cn/dns-query
 [/v977.com/]tls://1.12.12.12 https://doh.360.cn
 [/v9b5n91.com/]tls://1.12.12.12 https://doh.360.cn
 [/va-etong.com/]tls://1.12.12.12 https://doh.360.cn
-[/va05ex1.org/]tls://1.12.12.12 https://doh.360.cn
 [/vaakwe.com/]tls://1.12.12.12 https://doh.360.cn
 [/vaatn.com/]tls://1.12.12.12 https://doh.360.cn
 [/vacepcvu.com/]tls://1.12.12.12 https://doh.360.cn
@@ -92355,7 +92158,6 @@ https://doh.18bit.cn/dns-query
 [/vilives.com/]tls://1.12.12.12 https://doh.360.cn
 [/villachina.com/]tls://1.12.12.12 https://doh.360.cn
 [/viltd.com/]tls://1.12.12.12 https://doh.360.cn
-[/vim8.org/]tls://1.12.12.12 https://doh.360.cn
 [/vimage1.com/]tls://1.12.12.12 https://doh.360.cn
 [/vimage2.com/]tls://1.12.12.12 https://doh.360.cn
 [/vimage3.com/]tls://1.12.12.12 https://doh.360.cn
@@ -92639,7 +92441,6 @@ https://doh.18bit.cn/dns-query
 [/vmsky.com/]tls://1.12.12.12 https://doh.360.cn
 [/vmtdf.com/]tls://1.12.12.12 https://doh.360.cn
 [/vmtnet.com/]tls://1.12.12.12 https://doh.360.cn
-[/vmuboh.com/]tls://1.12.12.12 https://doh.360.cn
 [/vmuhyu.site/]tls://1.12.12.12 https://doh.360.cn
 [/vmylan.com/]tls://1.12.12.12 https://doh.360.cn
 [/vnadssb.com/]tls://1.12.12.12 https://doh.360.cn
@@ -92980,7 +92781,6 @@ https://doh.18bit.cn/dns-query
 [/vsping.com/]tls://1.12.12.12 https://doh.360.cn
 [/vspk.com/]tls://1.12.12.12 https://doh.360.cn
 [/vsread.com/]tls://1.12.12.12 https://doh.360.cn
-[/vssou.com/]tls://1.12.12.12 https://doh.360.cn
 [/vsszan.com/]tls://1.12.12.12 https://doh.360.cn
 [/vstarstatic.com/]tls://1.12.12.12 https://doh.360.cn
 [/vstart.net/]tls://1.12.12.12 https://doh.360.cn
@@ -93061,7 +92861,6 @@ https://doh.18bit.cn/dns-query
 [/vvxue.com/]tls://1.12.12.12 https://doh.360.cn
 [/vvzero.com/]tls://1.12.12.12 https://doh.360.cn
 [/vw888.com/]tls://1.12.12.12 https://doh.360.cn
-[/vwaycn.com/]tls://1.12.12.12 https://doh.360.cn
 [/vwe5pjt0jq.com/]tls://1.12.12.12 https://doh.360.cn
 [/vwhulian.com/]tls://1.12.12.12 https://doh.360.cn
 [/vwkbh1674.com/]tls://1.12.12.12 https://doh.360.cn
@@ -93151,7 +92950,6 @@ https://doh.18bit.cn/dns-query
 [/waakuu.com/]tls://1.12.12.12 https://doh.360.cn
 [/waasee.com/]tls://1.12.12.12 https://doh.360.cn
 [/wabcw.info/]tls://1.12.12.12 https://doh.360.cn
-[/wabestdealmall.com/]tls://1.12.12.12 https://doh.360.cn
 [/wabuw.com/]tls://1.12.12.12 https://doh.360.cn
 [/wacai.com/]tls://1.12.12.12 https://doh.360.cn
 [/wacai365.com/]tls://1.12.12.12 https://doh.360.cn
@@ -93330,7 +93128,6 @@ https://doh.18bit.cn/dns-query
 [/wanfangdata.com/]tls://1.12.12.12 https://doh.360.cn
 [/wanfangtech.com/]tls://1.12.12.12 https://doh.360.cn
 [/wanfangtech.net/]tls://1.12.12.12 https://doh.360.cn
-[/wanfantian.com/]tls://1.12.12.12 https://doh.360.cn
 [/wanfayun.com/]tls://1.12.12.12 https://doh.360.cn
 [/wanfoquan.com/]tls://1.12.12.12 https://doh.360.cn
 [/wanfucc.com/]tls://1.12.12.12 https://doh.360.cn
@@ -93685,7 +93482,6 @@ https://doh.18bit.cn/dns-query
 [/wasucnc.com/]tls://1.12.12.12 https://doh.360.cn
 [/watch-top.net/]tls://1.12.12.12 https://doh.360.cn
 [/watch4s.com/]tls://1.12.12.12 https://doh.360.cn
-[/watchadmin.com/]tls://1.12.12.12 https://doh.360.cn
 [/watchdios.com/]tls://1.12.12.12 https://doh.360.cn
 [/watcheschep.com/]tls://1.12.12.12 https://doh.360.cn
 [/watchlead.com/]tls://1.12.12.12 https://doh.360.cn
@@ -93889,7 +93685,6 @@ https://doh.18bit.cn/dns-query
 [/we7.cc/]tls://1.12.12.12 https://doh.360.cn
 [/weachat.net/]tls://1.12.12.12 https://doh.360.cn
 [/weadoc.com/]tls://1.12.12.12 https://doh.360.cn
-[/weakyon.com/]tls://1.12.12.12 https://doh.360.cn
 [/weand.com/]tls://1.12.12.12 https://doh.360.cn
 [/weaoo.com/]tls://1.12.12.12 https://doh.360.cn
 [/weapp.com/]tls://1.12.12.12 https://doh.360.cn
@@ -95033,7 +94828,6 @@ https://doh.18bit.cn/dns-query
 [/whjkcj.com/]tls://1.12.12.12 https://doh.360.cn
 [/whjkct.com/]tls://1.12.12.12 https://doh.360.cn
 [/whjksyxx.com/]tls://1.12.12.12 https://doh.360.cn
-[/whjldj.com/]tls://1.12.12.12 https://doh.360.cn
 [/whjm.com/]tls://1.12.12.12 https://doh.360.cn
 [/whjrjjt.com/]tls://1.12.12.12 https://doh.360.cn
 [/whjrjt.com/]tls://1.12.12.12 https://doh.360.cn
@@ -95696,7 +95490,6 @@ https://doh.18bit.cn/dns-query
 [/wlcbw.com/]tls://1.12.12.12 https://doh.360.cn
 [/wlcxx.com/]tls://1.12.12.12 https://doh.360.cn
 [/wldbs.com/]tls://1.12.12.12 https://doh.360.cn
-[/wldlr.com/]tls://1.12.12.12 https://doh.360.cn
 [/wldmarket.com/]tls://1.12.12.12 https://doh.360.cn
 [/wlds.net/]tls://1.12.12.12 https://doh.360.cn
 [/wldsb.com/]tls://1.12.12.12 https://doh.360.cn
@@ -95937,7 +95730,6 @@ https://doh.18bit.cn/dns-query
 [/wohst8.com/]tls://1.12.12.12 https://doh.360.cn
 [/wohuishou.club/]tls://1.12.12.12 https://doh.360.cn
 [/woi3d.com/]tls://1.12.12.12 https://doh.360.cn
-[/woiauto.com/]tls://1.12.12.12 https://doh.360.cn
 [/woiles.com/]tls://1.12.12.12 https://doh.360.cn
 [/woiwrj.com/]tls://1.12.12.12 https://doh.360.cn
 [/woiyu.com/]tls://1.12.12.12 https://doh.360.cn
@@ -96074,7 +95866,6 @@ https://doh.18bit.cn/dns-query
 [/workec.com/]tls://1.12.12.12 https://doh.360.cn
 [/workehr.com/]tls://1.12.12.12 https://doh.360.cn
 [/workerman.net/]tls://1.12.12.12 https://doh.360.cn
-[/workhelpmanila.com/]tls://1.12.12.12 https://doh.360.cn
 [/workpcb.com/]tls://1.12.12.12 https://doh.360.cn
 [/worksoho.com/]tls://1.12.12.12 https://doh.360.cn
 [/worktile.com/]tls://1.12.12.12 https://doh.360.cn
@@ -96182,7 +95973,6 @@ https://doh.18bit.cn/dns-query
 [/wp-hz.com/]tls://1.12.12.12 https://doh.360.cn
 [/wpan123.com/]tls://1.12.12.12 https://doh.360.cn
 [/wpbattery.com/]tls://1.12.12.12 https://doh.360.cn
-[/wpceo.com/]tls://1.12.12.12 https://doh.360.cn
 [/wpcio.com/]tls://1.12.12.12 https://doh.360.cn
 [/wpcsh.com/]tls://1.12.12.12 https://doh.360.cn
 [/wpdaxue.com/]tls://1.12.12.12 https://doh.360.cn
@@ -96792,7 +96582,6 @@ https://doh.18bit.cn/dns-query
 [/www-jabuank-co-jp.net/]tls://1.12.12.12 https://doh.360.cn
 [/www-v1.dji.com/]tls://1.12.12.12 https://doh.360.cn
 [/www.alphassl.com/]tls://1.12.12.12 https://doh.360.cn
-[/www.amd.com/]tls://1.12.12.12 https://doh.360.cn
 [/www.bing.com/]tls://1.12.12.12 https://doh.360.cn
 [/www.cdnetworks.com/]tls://1.12.12.12 https://doh.360.cn
 [/www.cg/]tls://1.12.12.12 https://doh.360.cn
@@ -97304,7 +97093,6 @@ https://doh.18bit.cn/dns-query
 [/xa9t.com/]tls://1.12.12.12 https://doh.360.cn
 [/xaaycz.com/]tls://1.12.12.12 https://doh.360.cn
 [/xabaoan.com/]tls://1.12.12.12 https://doh.360.cn
-[/xabbs.com/]tls://1.12.12.12 https://doh.360.cn
 [/xabpo.com/]tls://1.12.12.12 https://doh.360.cn
 [/xacademy.cc/]tls://1.12.12.12 https://doh.360.cn
 [/xacbank.com/]tls://1.12.12.12 https://doh.360.cn
@@ -97328,7 +97116,6 @@ https://doh.18bit.cn/dns-query
 [/xaecong.com/]tls://1.12.12.12 https://doh.360.cn
 [/xaedumedia.com/]tls://1.12.12.12 https://doh.360.cn
 [/xaent.com/]tls://1.12.12.12 https://doh.360.cn
-[/xafaka.com/]tls://1.12.12.12 https://doh.360.cn
 [/xafc.com/]tls://1.12.12.12 https://doh.360.cn
 [/xagdyz.com/]tls://1.12.12.12 https://doh.360.cn
 [/xagkwl.com/]tls://1.12.12.12 https://doh.360.cn
@@ -97903,7 +97690,6 @@ https://doh.18bit.cn/dns-query
 [/xhjt.com/]tls://1.12.12.12 https://doh.360.cn
 [/xhjyxxw.com/]tls://1.12.12.12 https://doh.360.cn
 [/xhlcsl.com/]tls://1.12.12.12 https://doh.360.cn
-[/xhlld002.shop/]tls://1.12.12.12 https://doh.360.cn
 [/xhlsgs.com/]tls://1.12.12.12 https://doh.360.cn
 [/xhma.com/]tls://1.12.12.12 https://doh.360.cn
 [/xhmedia.com/]tls://1.12.12.12 https://doh.360.cn
@@ -98012,7 +97798,6 @@ https://doh.18bit.cn/dns-query
 [/xiandaihospital.com/]tls://1.12.12.12 https://doh.360.cn
 [/xiandaimuye.com/]tls://1.12.12.12 https://doh.360.cn
 [/xiandaiyuwen.com/]tls://1.12.12.12 https://doh.360.cn
-[/xiandanjia.com/]tls://1.12.12.12 https://doh.360.cn
 [/xiandengdengguan.com/]tls://1.12.12.12 https://doh.360.cn
 [/xianer.net/]tls://1.12.12.12 https://doh.360.cn
 [/xianfae.com/]tls://1.12.12.12 https://doh.360.cn
@@ -98677,7 +98462,6 @@ https://doh.18bit.cn/dns-query
 [/xiazais.com/]tls://1.12.12.12 https://doh.360.cn
 [/xiazaitool.com/]tls://1.12.12.12 https://doh.360.cn
 [/xiazaiwx.com/]tls://1.12.12.12 https://doh.360.cn
-[/xibaike.com/]tls://1.12.12.12 https://doh.360.cn
 [/xibanyaqz.com/]tls://1.12.12.12 https://doh.360.cn
 [/xibao100.com/]tls://1.12.12.12 https://doh.360.cn
 [/xibeicanyin.com/]tls://1.12.12.12 https://doh.360.cn
@@ -99034,7 +98818,6 @@ https://doh.18bit.cn/dns-query
 [/xingshawater.com/]tls://1.12.12.12 https://doh.360.cn
 [/xingshen.com/]tls://1.12.12.12 https://doh.360.cn
 [/xingshu.com/]tls://1.12.12.12 https://doh.360.cn
-[/xingshuishuiwu.net/]tls://1.12.12.12 https://doh.360.cn
 [/xingshulin.com/]tls://1.12.12.12 https://doh.360.cn
 [/xingsteel.com/]tls://1.12.12.12 https://doh.360.cn
 [/xingtai.net/]tls://1.12.12.12 https://doh.360.cn
@@ -99554,7 +99337,6 @@ https://doh.18bit.cn/dns-query
 [/xixibobo.com/]tls://1.12.12.12 https://doh.360.cn
 [/xixidoudizhu.com/]tls://1.12.12.12 https://doh.360.cn
 [/xixig8.com/]tls://1.12.12.12 https://doh.360.cn
-[/xixih.cc/]tls://1.12.12.12 https://doh.360.cn
 [/xixih.net/]tls://1.12.12.12 https://doh.360.cn
 [/xixik.com/]tls://1.12.12.12 https://doh.360.cn
 [/xixik.net/]tls://1.12.12.12 https://doh.360.cn
@@ -99700,7 +99482,6 @@ https://doh.18bit.cn/dns-query
 [/xjsy56.com/]tls://1.12.12.12 https://doh.360.cn
 [/xjtcm.com/]tls://1.12.12.12 https://doh.360.cn
 [/xjtjjt.com/]tls://1.12.12.12 https://doh.360.cn
-[/xjtour.com/]tls://1.12.12.12 https://doh.360.cn
 [/xjtrcw.com/]tls://1.12.12.12 https://doh.360.cn
 [/xjtrry.com/]tls://1.12.12.12 https://doh.360.cn
 [/xjtsnews.com/]tls://1.12.12.12 https://doh.360.cn
@@ -100178,7 +99959,6 @@ https://doh.18bit.cn/dns-query
 [/xn--rpv331d.com/]tls://1.12.12.12 https://doh.360.cn
 [/xn--rss237b.com/]tls://1.12.12.12 https://doh.360.cn
 [/xn--rss404ac6aj60e.net/]tls://1.12.12.12 https://doh.360.cn
-[/xn--rsss0ke5ghnj.com/]tls://1.12.12.12 https://doh.360.cn
 [/xn--ruqs20ac8b5z7av8ir2u.net/]tls://1.12.12.12 https://doh.360.cn
 [/xn--ruqz9zcojm5sf19a.com/]tls://1.12.12.12 https://doh.360.cn
 [/xn--s1ru0x93t.xn--3ds443g/]tls://1.12.12.12 https://doh.360.cn
@@ -101111,6 +100891,7 @@ https://doh.18bit.cn/dns-query
 [/xxtjdz.com/]tls://1.12.12.12 https://doh.360.cn
 [/xxtlw.com/]tls://1.12.12.12 https://doh.360.cn
 [/xxtmail.com/]tls://1.12.12.12 https://doh.360.cn
+[/xxuuuw.com/]tls://1.12.12.12 https://doh.360.cn
 [/xxw001.com/]tls://1.12.12.12 https://doh.360.cn
 [/xxwolo.com/]tls://1.12.12.12 https://doh.360.cn
 [/xxxbiquge.com/]tls://1.12.12.12 https://doh.360.cn
@@ -101141,7 +100922,6 @@ https://doh.18bit.cn/dns-query
 [/xy-asia.com/]tls://1.12.12.12 https://doh.360.cn
 [/xy-ddh.com/]tls://1.12.12.12 https://doh.360.cn
 [/xy-dgyx.com/]tls://1.12.12.12 https://doh.360.cn
-[/xy-display.com/]tls://1.12.12.12 https://doh.360.cn
 [/xy-invite.com/]tls://1.12.12.12 https://doh.360.cn
 [/xy-mp.com/]tls://1.12.12.12 https://doh.360.cn
 [/xy-technology.com/]tls://1.12.12.12 https://doh.360.cn
@@ -102076,6 +101856,7 @@ https://doh.18bit.cn/dns-query
 [/ycgzgame.com/]tls://1.12.12.12 https://doh.360.cn
 [/ychcqmu.com/]tls://1.12.12.12 https://doh.360.cn
 [/ychdzxsh.com/]tls://1.12.12.12 https://doh.360.cn
+[/ychld.com/]tls://1.12.12.12 https://doh.360.cn
 [/ychr.com/]tls://1.12.12.12 https://doh.360.cn
 [/ychromedgeie.com/]tls://1.12.12.12 https://doh.360.cn
 [/ychszh.com/]tls://1.12.12.12 https://doh.360.cn
@@ -102495,7 +102276,6 @@ https://doh.18bit.cn/dns-query
 [/yfgg.com/]tls://1.12.12.12 https://doh.360.cn
 [/yfgj68.com/]tls://1.12.12.12 https://doh.360.cn
 [/yfhex.com/]tls://1.12.12.12 https://doh.360.cn
-[/yfhhf.com/]tls://1.12.12.12 https://doh.360.cn
 [/yfhl.net/]tls://1.12.12.12 https://doh.360.cn
 [/yfhospital.com/]tls://1.12.12.12 https://doh.360.cn
 [/yfhxtech.com/]tls://1.12.12.12 https://doh.360.cn
@@ -102699,7 +102479,6 @@ https://doh.18bit.cn/dns-query
 [/yibenmanhua.com/]tls://1.12.12.12 https://doh.360.cn
 [/yibentushu.com/]tls://1.12.12.12 https://doh.360.cn
 [/yibiao-sh.com/]tls://1.12.12.12 https://doh.360.cn
-[/yibite.com/]tls://1.12.12.12 https://doh.360.cn
 [/yiboliu.com/]tls://1.12.12.12 https://doh.360.cn
 [/yiboshi.com/]tls://1.12.12.12 https://doh.360.cn
 [/yibotec.com/]tls://1.12.12.12 https://doh.360.cn
@@ -103526,7 +103305,6 @@ https://doh.18bit.cn/dns-query
 [/yizhanapp.com/]tls://1.12.12.12 https://doh.360.cn
 [/yizhang8.com/]tls://1.12.12.12 https://doh.360.cn
 [/yizhangtu.com/]tls://1.12.12.12 https://doh.360.cn
-[/yizhanhulian.com/]tls://1.12.12.12 https://doh.360.cn
 [/yizhanzx.com/]tls://1.12.12.12 https://doh.360.cn
 [/yizhaopin.com/]tls://1.12.12.12 https://doh.360.cn
 [/yizhedian.com/]tls://1.12.12.12 https://doh.360.cn
@@ -103750,7 +103528,6 @@ https://doh.18bit.cn/dns-query
 [/ylmf123.com/]tls://1.12.12.12 https://doh.360.cn
 [/ylmf888.com/]tls://1.12.12.12 https://doh.360.cn
 [/ylmfeng.com/]tls://1.12.12.12 https://doh.360.cn
-[/ylmfwin100.com/]tls://1.12.12.12 https://doh.360.cn
 [/ylmfwin8.com/]tls://1.12.12.12 https://doh.360.cn
 [/ylmm.com/]tls://1.12.12.12 https://doh.360.cn
 [/ylnetworks.com/]tls://1.12.12.12 https://doh.360.cn
@@ -103860,7 +103637,6 @@ https://doh.18bit.cn/dns-query
 [/ymt360.com/]tls://1.12.12.12 https://doh.360.cn
 [/ymtc.com/]tls://1.12.12.12 https://doh.360.cn
 [/ymtie.com/]tls://1.12.12.12 https://doh.360.cn
-[/ymtmt.com/]tls://1.12.12.12 https://doh.360.cn
 [/ymtnet.com/]tls://1.12.12.12 https://doh.360.cn
 [/ymuuy.com/]tls://1.12.12.12 https://doh.360.cn
 [/ymvkt.com/]tls://1.12.12.12 https://doh.360.cn
@@ -104132,7 +103908,6 @@ https://doh.18bit.cn/dns-query
 [/yongxiuren.com/]tls://1.12.12.12 https://doh.360.cn
 [/yongyi-valve.com/]tls://1.12.12.12 https://doh.360.cn
 [/yongyoujia.com/]tls://1.12.12.12 https://doh.360.cn
-[/yongyu.xyz/]tls://1.12.12.12 https://doh.360.cn
 [/yongyuenj.com/]tls://1.12.12.12 https://doh.360.cn
 [/yongzhegroup.com/]tls://1.12.12.12 https://doh.360.cn
 [/yongzhentang.com/]tls://1.12.12.12 https://doh.360.cn
@@ -104756,7 +104531,6 @@ https://doh.18bit.cn/dns-query
 [/ys-fj.com/]tls://1.12.12.12 https://doh.360.cn
 [/ys-oss.xin/]tls://1.12.12.12 https://doh.360.cn
 [/ys.cc/]tls://1.12.12.12 https://doh.360.cn
-[/ys001.com/]tls://1.12.12.12 https://doh.360.cn
 [/ys0431.net/]tls://1.12.12.12 https://doh.360.cn
 [/ys121.com/]tls://1.12.12.12 https://doh.360.cn
 [/ys133.com/]tls://1.12.12.12 https://doh.360.cn
@@ -105958,7 +105732,6 @@ https://doh.18bit.cn/dns-query
 [/yxdr.com/]tls://1.12.12.12 https://doh.360.cn
 [/yxduo.com/]tls://1.12.12.12 https://doh.360.cn
 [/yxdwj.com/]tls://1.12.12.12 https://doh.360.cn
-[/yxecg.com/]tls://1.12.12.12 https://doh.360.cn
 [/yxeht.com/]tls://1.12.12.12 https://doh.360.cn
 [/yxen.net/]tls://1.12.12.12 https://doh.360.cn
 [/yxflzs.com/]tls://1.12.12.12 https://doh.360.cn
@@ -106471,7 +106244,6 @@ https://doh.18bit.cn/dns-query
 [/zaker.com/]tls://1.12.12.12 https://doh.360.cn
 [/zaku.fun/]tls://1.12.12.12 https://doh.360.cn
 [/zakww.com/]tls://1.12.12.12 https://doh.360.cn
-[/zalandode.com/]tls://1.12.12.12 https://doh.360.cn
 [/zallcn.com/]tls://1.12.12.12 https://doh.360.cn
 [/zallgo.com/]tls://1.12.12.12 https://doh.360.cn
 [/zallimg.com/]tls://1.12.12.12 https://doh.360.cn
@@ -106714,7 +106486,6 @@ https://doh.18bit.cn/dns-query
 [/zcodesign.com/]tls://1.12.12.12 https://doh.360.cn
 [/zcofuture.com/]tls://1.12.12.12 https://doh.360.cn
 [/zcom.com/]tls://1.12.12.12 https://doh.360.cn
-[/zcomc.com/]tls://1.12.12.12 https://doh.360.cn
 [/zcoming.com/]tls://1.12.12.12 https://doh.360.cn
 [/zcooler.com/]tls://1.12.12.12 https://doh.360.cn
 [/zcosz.com/]tls://1.12.12.12 https://doh.360.cn
@@ -106952,7 +106723,6 @@ https://doh.18bit.cn/dns-query
 [/zezhengcnc.com/]tls://1.12.12.12 https://doh.360.cn
 [/zezhenwangluo.com/]tls://1.12.12.12 https://doh.360.cn
 [/zezhuanggd.com/]tls://1.12.12.12 https://doh.360.cn
-[/zf313.com/]tls://1.12.12.12 https://doh.360.cn
 [/zf360.net/]tls://1.12.12.12 https://doh.360.cn
 [/zf3d.com/]tls://1.12.12.12 https://doh.360.cn
 [/zfancy.net/]tls://1.12.12.12 https://doh.360.cn
@@ -108429,7 +108199,6 @@ https://doh.18bit.cn/dns-query
 [/zhongyunqianbao.com/]tls://1.12.12.12 https://doh.360.cn
 [/zhongyuyx.com/]tls://1.12.12.12 https://doh.360.cn
 [/zhongzaisheng.net/]tls://1.12.12.12 https://doh.360.cn
-[/zhongzeny.com/]tls://1.12.12.12 https://doh.360.cn
 [/zhongzetherapeutics.com/]tls://1.12.12.12 https://doh.360.cn
 [/zhongzhaizs.com/]tls://1.12.12.12 https://doh.360.cn
 [/zhongzhao.com/]tls://1.12.12.12 https://doh.360.cn
@@ -108560,7 +108329,6 @@ https://doh.18bit.cn/dns-query
 [/zhuayoukong.com/]tls://1.12.12.12 https://doh.360.cn
 [/zhuayuya.com/]tls://1.12.12.12 https://doh.360.cn
 [/zhuazi.com/]tls://1.12.12.12 https://doh.360.cn
-[/zhubaijia.com/]tls://1.12.12.12 https://doh.360.cn
 [/zhubajie.com/]tls://1.12.12.12 https://doh.360.cn
 [/zhubajie.la/]tls://1.12.12.12 https://doh.360.cn
 [/zhubangbang.com/]tls://1.12.12.12 https://doh.360.cn
@@ -108920,7 +108688,6 @@ https://doh.18bit.cn/dns-query
 [/zilrms.com/]tls://1.12.12.12 https://doh.360.cn
 [/ziluolanh.com/]tls://1.12.12.12 https://doh.360.cn
 [/zimilan.com/]tls://1.12.12.12 https://doh.360.cn
-[/zimlev.com/]tls://1.12.12.12 https://doh.360.cn
 [/zimudashi.com/]tls://1.12.12.12 https://doh.360.cn
 [/zimufy.com/]tls://1.12.12.12 https://doh.360.cn
 [/zimuism.com/]tls://1.12.12.12 https://doh.360.cn
@@ -109644,7 +109411,6 @@ https://doh.18bit.cn/dns-query
 [/zjza.com/]tls://1.12.12.12 https://doh.360.cn
 [/zjzajsjt.com/]tls://1.12.12.12 https://doh.360.cn
 [/zjzcec.com/]tls://1.12.12.12 https://doh.360.cn
-[/zjzcen.com/]tls://1.12.12.12 https://doh.360.cn
 [/zjzcj.com/]tls://1.12.12.12 https://doh.360.cn
 [/zjzfj.com/]tls://1.12.12.12 https://doh.360.cn
 [/zjzfjs.com/]tls://1.12.12.12 https://doh.360.cn
@@ -109706,7 +109472,6 @@ https://doh.18bit.cn/dns-query
 [/zking.com/]tls://1.12.12.12 https://doh.360.cn
 [/zkjan.com/]tls://1.12.12.12 https://doh.360.cn
 [/zkjds.com/]tls://1.12.12.12 https://doh.360.cn
-[/zkkailiaoji.com/]tls://1.12.12.12 https://doh.360.cn
 [/zkl2333.com/]tls://1.12.12.12 https://doh.360.cn
 [/zkmeiling.com/]tls://1.12.12.12 https://doh.360.cn
 [/zkmob.net/]tls://1.12.12.12 https://doh.360.cn
@@ -109936,7 +109701,6 @@ https://doh.18bit.cn/dns-query
 [/znonline.net/]tls://1.12.12.12 https://doh.360.cn
 [/znp9.com/]tls://1.12.12.12 https://doh.360.cn
 [/znpin.com/]tls://1.12.12.12 https://doh.360.cn
-[/znpla.space/]tls://1.12.12.12 https://doh.360.cn
 [/znrfwy.com/]tls://1.12.12.12 https://doh.360.cn
 [/znrom.com/]tls://1.12.12.12 https://doh.360.cn
 [/znrsc.com/]tls://1.12.12.12 https://doh.360.cn
